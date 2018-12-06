@@ -81,43 +81,37 @@
                 <div class="service" id="service">
                     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                         <div class="bg-white pinside40 service-block outline mb30">
-                            <div class="icon mb40"> <img src="images/loan.svg" alt="Borrow - Loan Company Website Template" class="icon-svg-2x"> </div>
+                            <div class="img mb40"> <img src="images/imgs/b1.jpg" alt="Borrow - Loan Company Website Template" class="icon-svg-2x"> </div>
                             <h2><a href="#" class="title">Instagram Marketing</a></h2>
                             <a href="#" class="btn-link">Read More</a> </div>
                     </div>
                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                         <div class="bg-white pinside40 service-block outline mb30">
-                            <div class="icon mb40"> <img src="images/mortgage.svg" alt="Borrow - Loan Company Website Template" class="icon-svg-2x"></div>
+                            <div class="img mb40"> <img src="images/imgs/b2.jpg" alt="Borrow - Loan Company Website Template" class="icon-svg-2x"></div>
                             <h2><a href="#" class="title">How To Build Websites</a></h2>
                             <a href="#" class="btn-link">Read More</a> </div>
                     </div>
                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                         <div class="bg-white pinside40 service-block outline mb30">
-                            <div class="icon mb40"> <img src="images/piggy-bank.svg" alt="Borrow - Loan Company Website Template" class="icon-svg-2x"></div>
+                            <div class="img mb40"> <img src="images/imgs/b3.jpg" alt="Borrow - Loan Company Website Template" class="icon-svg-2x"></div>
                             <h2><a href="#" class="title">SEO Marketing Tips</a></h2>
                             <a href="#" class="btn-link">Read More</a> </div>
                     </div>
                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                         <div class="bg-white pinside40 service-block outline mb30">
-                            <div class="icon mb40"> <img src="images/loan.svg" alt="Borrow - Loan Company Website Template" class="icon-svg-2x"></div>
-                            <h2><a href="#" class="title">Business Loan</a></h2>
-                            <a href="#" class="btn-link">Read More</a> </div>
-                    </div>
-                   <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                        <div class="bg-white pinside40 service-block outline mb30">
-                            <div class="icon mb40"> <img src="images/car.svg" alt="Borrow - Loan Company Website Template" class="icon-svg-2x"></div>
+                            <div class="img mb40"> <img src="images/imgs/b4.jpg" alt="Borrow - Loan Company Website Template" class="icon-svg-2x"></div>
                             <h2><a href="#" class="title">Learn Free Credit Tips </a></h2>
                             <a href="#" class="btn-link">Read More</a></div>
                     </div>
                     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                          <div class="bg-white pinside40 service-block outline mb30">
-                             <div class="icon mb40"> <img src="images/car.svg" alt="Borrow - Loan Company Website Template" class="icon-svg-2x"></div>
+                             <div class="img mb40"> <img src="images/imgs/b5.jpg" alt="Borrow - Loan Company Website Template" class="icon-svg-2x"></div>
                              <h2><a href="#" class="title">What Is Blockchain?</a></h2>
                              <a href="#" class="btn-link">Read More</a></div>
                      </div>
                      <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                           <div class="bg-white pinside40 service-block outline mb30">
-                              <div class="icon mb40"> <img src="images/car.svg" alt="Borrow - Loan Company Website Template" class="icon-svg-2x"></div>
+                              <div class="img mb40"> <img src="images/imgs/b6.jpg" alt="Borrow - Loan Company Website Template" class="icon-svg-2x"></div>
                               <h2><a href="#" class="title">How To Save Money </a></h2>
                               <a href="#" class="btn-link">Read More</a></div>
                       </div>
@@ -171,36 +165,45 @@
                 <div class="offset-xl-2 col-xl-8 offset-md-2 col-md-8 offset-md-2 col-md-8 col-sm-12 col-12">
                     <div class="mb60 text-center section-title">
                         <!-- section title start-->
-                        <h1>Why People Choose Us</h1>
+                        <h1>WHY KNOWLEDGE BANK SOCIETY?</h1>
                         <p>Suspendisse aliquet varius nunc atcibus lacus sit amet coed portaeri sque mami luctus viveed congue lobortis faucibus.</p>
                     </div>
                     <!-- /.section title start-->
                 </div>
             </div>
-            <div class="row">
+            <div class="row why">
                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                     <div class="bg-white bg-boxshadow">
                         <div class="row">
                             <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 nopadding">
                                 <div class="bg-white pinside60 number-block outline">
+                                  <div class="why-us">
                                     <div class="mb20"><i class="icon-command  icon-4x icon-primary"></i></div>
                                     <h3>Dedicated Specialists</h3>
-                                    <p>Duis eget diam quis elit erdiet alidvolutp terdum tfanissim non intwesollis eu mauris.</p>
-                                    <a href="#" class="btn btn-outline mt20">Meet the team</a> </div>
+                                    <p>We feature only the Most Powerful lessons that are Guaranteed to immediately improve your financial and social life</p>
+                                  </div>
+                                    <a href="#" class="btn btn-outline mt20">Meet the team</a>
+                                </div>
                             </div>
                              <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 nopadding">
                                 <div class="bg-white pinside60 number-block outline">
+                                  <div class="why-us">
                                     <div class="mb20"><i class="icon-cup  icon-4x icon-primary"></i></div>
                                     <h3>Success Stories Rating</h3>
-                                    <p>Integer facilisis fringilla dolor ut luctus lvinar felis miat velitliquam at fermentum orci.</p>
-                                    <a href="#" class="btn btn-outline mt20">View Client Review</a> </div>
+                                    <p>You will be taught directly by the Jesse Ruffolo for optimal and efficient learning...</p>
+                                  </div>
+                                    <a href="#" class="btn btn-outline mt20">View Client Review</a>
+                                </div>
                             </div>
                              <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 nopadding">
                                 <div class="bg-white pinside60 number-block outline">
+                                  <div class="why-us">
                                     <div class="mb20"><i class="icon-calculator  icon-4x icon-primary"></i></div>
                                     <h3>No front Appraisal Fees!</h3>
-                                    <p> Integer faisis fringilla dolor ut luctus nisi eneinar felis viverra dignissim fermentum orci.</p>
-                                    <a href="#" class="btn btn-outline mt20">Why choose us</a> </div>
+                                    <p> You'll have access to exclusive video courses, audio lessons,  ebooks, PDF files that you can use in any combination to best suit your learning preferences...</p>
+                                  </div>
+                                    <a href="#" class="btn btn-outline mt20">Why choose us</a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -263,28 +266,14 @@
             </div>
         </div>
     </div>
-    <div class="section-space40 bg-white">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-2 col-lg-2 col-md-2 col-sm-4 col-6"> <img src="images/logo-1.jpg" alt="Borrow - Loan Company Website Template"> </div>
-                <div class="col-xl-2 col-lg-2 col-md-2 col-sm-4 col-6"> <img src="images/logo-2.jpg" alt="Borrow - Loan Company Website Template"> </div>
-                <div class="col-xl-2 col-lg-2 col-md-2 col-sm-4 col-6"> <img src="images/logo-3.jpg" alt="Borrow - Loan Company Website Template"> </div>
-                <div class="col-xl-2 col-lg-2 col-md-2 col-sm-4 col-6"> <img src="images/logo-4.jpg" alt="Borrow - Loan Company Website Template"> </div>
-                <div class="col-xl-2 col-lg-2 col-md-2 col-sm-4 col-6"> <img src="images/logo-5.jpg" alt="Borrow - Loan Company Website Template"> </div>
-                <div class="col-xl-2 col-lg-2 col-md-2 col-sm-4 col-6"> <img src="images/logo-1.jpg" alt="Borrow - Loan Company Website Template"> </div>
-            </div>
-        </div>
-    </div>
-    <div class="section-space80">
+    <!-- <div class="section-space80">
         <div class="container">
             <div class="row">
                  <div class="offset-xl-2 col-xl-8 offset-md-2 col-md-8 offset-md-2 col-md-8 col-sm-12 col-12">
                     <div class="mb60 text-center section-title">
-                        <!-- section title start-->
                         <h1>Latest News from Loan Company</h1>
                         <p> Our mission is to deliver reliable, latest news and opinions.</p>
                     </div>
-                    <!-- /.section title start-->
                 </div>
             </div>
             <div class="row">
@@ -326,7 +315,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <div class="section-space80 bg-white">
         <div class="container">
             <div class="row">
