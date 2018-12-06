@@ -20,12 +20,6 @@
     <!-- owl Carousel Css -->
     <link href="css/owl.carousel.css" rel="stylesheet">
     <link href="css/owl.theme.css" rel="stylesheet">
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
 </head>
 
 <body>
@@ -58,51 +52,19 @@
     </div>
     <div class="slider" id="slider">
         <!-- slider -->
-        <div class="slider-img"><img src="images/slider-1.jpg" alt="Borrow - Loan Company Website Template" class="">
+        <div class="slider-img"><img src="images/imgs/slider.jpg" alt="Borrow - Loan Company Website Template" class="">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
+                    <div class="col-xl-8 col-lg-8 col-md-12 col-sm-12 col-12">
                         <div class="slider-captions">
                             <!-- slider-captions -->
-                            <h1 class="slider-title">Personal Loan to Suit Your Needs. </h1>
-                            <p class="slider-text d-none d-xl-block d-lg-block d-sm-block">The low rate you need for the need you want! Call
-                                <br>
-                                <strong class="text-highlight">(555) 123-4567</strong></p>
-                            <a href="team.html" class="btn btn-default">Loan Products</a> </div>
+                            <h3 class="slider-title">Learn like CEO's and Entrepreneurs on the go!</h3>
+                            <p class="slider-text d-none d-xl-block d-lg-block d-sm-block">If you're like most entrepreneurs you believe in expanding your knowledge
+                               and leveling up your skill sets, but you just don't have the time.
+                               We engineered a new, fun and engaging way to learn directly from Jesse Ruffolo
+                                <br></p>
+                            <a href="team.html" class="btn btn-default">Sign Up Now</a> </div>
                         <!-- /.slider-captions -->
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div>
-            <div class="slider-img"><img src="images/slider-2.jpg" alt="Borrow - Loan Company Website Template" class="">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
-                            <div class="slider-captions">
-                                <!-- slider-captions -->
-                                <h1 class="slider-title"> Lowest Car Loan Rate <strong class="text-highlight">9.60%</strong> </h1>
-                                <p class="slider-text d-none d-xl-block d-lg-block d-sm-block"> We provide an excellent service Loan company. Lorem ipsum simple dummy content goes here.</p>
-                                <a href="#" class="btn btn-default">Check Eligiblity</a> </div>
-                            <!-- /.slider-captions -->
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div>
-            <div class="slider-img"><img src="images/slider-3.jpg" alt="Borrow - Loan Company Website Template" class="">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
-                            <div class="slider-captions">
-                                <!-- slider-captions -->
-                                <h1 class="slider-title">Student Loans with Greate Rates <strong class="text-highlight">11.10%</strong></h1>
-                                <p class="slider-text d-none d-xl-block d-lg-block d-sm-block">We provide an excellent service for all types of loans in
-                                    <br> ahmedabad and offer service, advice and direction.</p>
-                                <a href="#" class="btn btn-default ">View Products</a> </div>
-                            <!-- /.slider-captions -->
-                        </div>
                     </div>
                 </div>
             </div>
