@@ -164,11 +164,9 @@
             <div class="row">
                 <div class="offset-xl-2 col-xl-8 offset-md-2 col-md-8 offset-md-2 col-md-8 col-sm-12 col-12">
                     <div class="mb60 text-center section-title">
-                        <!-- section title start-->
                         <h1>WHY KNOWLEDGE BANK SOCIETY?</h1>
                         <p>Suspendisse aliquet varius nunc atcibus lacus sit amet coed portaeri sque mami luctus viveed congue lobortis faucibus.</p>
                     </div>
-                    <!-- /.section title start-->
                 </div>
             </div>
             <div class="row why">
@@ -216,11 +214,9 @@
             <div class="row">
                  <div class="offset-xl-2 col-xl-8 offset-md-2 col-md-8 offset-md-2 col-md-8 col-sm-12 col-12">
                     <div class="mb60 text-center section-title">
-                        <!-- section title start-->
                         <h1 class="title-white">Some of our Awesome Testimonials</h1>
                         <p> You won’t be the only one lorem ipsu mauris diam mattises.</p>
                     </div>
-                    <!-- /.section title start-->
                 </div>
             </div>
             <div class="row">
@@ -232,8 +228,7 @@
                         <div class="testimonial-autor-box">
                             <div class="testimonial-img pull-left"> <img src="images/testimonial-img.jpg" alt="Borrow - Loan Company Website Template"> </div>
                             <div class="testimonial-autor pull-left">
-                                <h4 class="testimonial-name">Donny J. Griffin</h4>
-                                <span class="testimonial-meta">Personal Loan</span> </div>
+                                <h4 class="testimonial-name">Donny J. Griffin</h4></div>
                         </div>
                     </div>
                 </div>
@@ -245,8 +240,7 @@
                         <div class="testimonial-autor-box">
                             <div class="testimonial-img pull-left"> <img src="images/testimonial-img-1.jpg" alt="Borrow - Loan Company Website Template"> </div>
                             <div class="testimonial-autor pull-left">
-                                <h4 class="testimonial-name">Mary O. Randle</h4>
-                                <span class="testimonial-meta">Education Loan</span> </div>
+                                <h4 class="testimonial-name">Mary O. Randle</h4> </div>
                         </div>
                     </div>
                 </div>
@@ -258,8 +252,7 @@
                         <div class="testimonial-autor-box">
                             <div class="testimonial-img pull-left"> <img src="images/testimonial-img-2.jpg" alt="Borrow - Loan Company Website Template"> </div>
                             <div class="testimonial-autor pull-left">
-                                <h4 class="testimonial-name">Lindo E. Olson</h4>
-                                <span class="testimonial-meta">Car Loan</span> </div>
+                                <h4 class="testimonial-name">Lindo E. Olson</h4> </div>
                         </div>
                     </div>
                 </div>
