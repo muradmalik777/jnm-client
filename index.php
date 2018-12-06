@@ -118,8 +118,7 @@
                 <div class="offset-xl-2 col-xl-8 offset-md-2 col-md-8 offset-md-2 col-md-8 col-sm-12 col-12">
                     <div class="mb60 text-center section-title">
                         <!-- section title start-->
-                        <h1>Find Loan Products We Offers</h1>
-                        <p>We will match you with a loan program that meet your financial need. In short term liquidity, by striving to make funds available to them <strong>within 24 hours of application.</strong></p>
+                        <h1>Best Of Jesse Ruffolo</h1>
                     </div>
                     <!-- /.section title start-->
                 </div>
@@ -129,38 +128,45 @@
                     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                         <div class="bg-white pinside40 service-block outline mb30">
                             <div class="icon mb40"> <img src="images/loan.svg" alt="Borrow - Loan Company Website Template" class="icon-svg-2x"> </div>
-                            <h2><a href="#" class="title">Personal Loan</a></h2>
-                            <p>Lorem ipsum dolor sit ameectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque</p>
+                            <h2><a href="#" class="title">Instagram Marketing</a></h2>
                             <a href="#" class="btn-link">Read More</a> </div>
                     </div>
                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                         <div class="bg-white pinside40 service-block outline mb30">
                             <div class="icon mb40"> <img src="images/mortgage.svg" alt="Borrow - Loan Company Website Template" class="icon-svg-2x"></div>
-                            <h2><a href="#" class="title">Home Loan</a></h2>
-                            <p>Sed ut perspiciatis unde omnis rror sit voluptatem accusan tium dolo remque laudantium, totam rem aperiam, eaque ipsa </p>
+                            <h2><a href="#" class="title">How To Build Websites</a></h2>
                             <a href="#" class="btn-link">Read More</a> </div>
                     </div>
                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                         <div class="bg-white pinside40 service-block outline mb30">
                             <div class="icon mb40"> <img src="images/piggy-bank.svg" alt="Borrow - Loan Company Website Template" class="icon-svg-2x"></div>
-                            <h2><a href="#" class="title">Education Loan</a></h2>
-                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elmodo ligula eget dolor. Aenean massa. Cum sociis natoque</p>
+                            <h2><a href="#" class="title">SEO Marketing Tips</a></h2>
                             <a href="#" class="btn-link">Read More</a> </div>
                     </div>
                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                         <div class="bg-white pinside40 service-block outline mb30">
                             <div class="icon mb40"> <img src="images/loan.svg" alt="Borrow - Loan Company Website Template" class="icon-svg-2x"></div>
                             <h2><a href="#" class="title">Business Loan</a></h2>
-                            <p>Lorem ipsum dolor sit nean commodo ligula eget dolor simple dummyum sociis natoque.amet, consectetuer adipiscing elit. </p>
                             <a href="#" class="btn-link">Read More</a> </div>
                     </div>
                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                         <div class="bg-white pinside40 service-block outline mb30">
                             <div class="icon mb40"> <img src="images/car.svg" alt="Borrow - Loan Company Website Template" class="icon-svg-2x"></div>
-                            <h2><a href="#" class="title">Car Loan</a></h2>
-                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque.</p>
+                            <h2><a href="#" class="title">Learn Free Credit Tips </a></h2>
                             <a href="#" class="btn-link">Read More</a></div>
                     </div>
+                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                         <div class="bg-white pinside40 service-block outline mb30">
+                             <div class="icon mb40"> <img src="images/car.svg" alt="Borrow - Loan Company Website Template" class="icon-svg-2x"></div>
+                             <h2><a href="#" class="title">What Is Blockchain?</a></h2>
+                             <a href="#" class="btn-link">Read More</a></div>
+                     </div>
+                     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                          <div class="bg-white pinside40 service-block outline mb30">
+                              <div class="icon mb40"> <img src="images/car.svg" alt="Borrow - Loan Company Website Template" class="icon-svg-2x"></div>
+                              <h2><a href="#" class="title">How To Save Money </a></h2>
+                              <a href="#" class="btn-link">Read More</a></div>
+                      </div>
                 </div>
             </div>
         </div>
