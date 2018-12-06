@@ -1,55 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <meta name="description" content="Borrow - is the loan company, Business Website Template.">
-    <meta name="keywords" content="Financial Website Template, Bootstrap Template, Loan Product, Personal Loan">
-    <title>Borrow - A Loan Company Website Templates</title>
-    <!-- Bootstrap -->
-    <link href="css/main.css" rel="stylesheet">
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
-    <link href="css/font-awesome.min.css" rel="stylesheet">
-    <link href="css/fontello.css" rel="stylesheet">
-
-    <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
-    <!-- owl Carousel Css -->
-    <link href="css/owl.carousel.css" rel="stylesheet">
-    <link href="css/owl.theme.css" rel="stylesheet">
-</head>
+<?php include 'links.php' ?>
 
 <body>
-    <div class="header">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-2 col-lg-2 col-md-12 col-sm-6 col-6">
-                    <!-- logo -->
-                    <div class="logo">
-                        <a href="index.html"><img src="images/imgs/logo2.png" alt="Borrow - Loan Company Website Template"></a>
-                    </div>
-                </div>
-                <!-- logo -->
-                <div class="col-xl-10 col-lg-10 col-md-12 col-sm-12 col-12">
-                      <div id="navigation">
-                        <ul>
-                            <li class="active"><a href="#" class="animsition-link">Knowledeg Bank Society</a></li>
-                            <li><a href="#" class="animsition-link">Crupto Currency</a></li>
-                            <li><a href="about.html" class="animsition-link">Social Media Marketing</a></li>
-                            <li><a href="blog-listing.html" class="animsition-link">Credit Mentorship</a></li>
-                            <li><a href="compare-loan.html" class="animsition-link">Wired4Cuccess</a></li>
-                            <li><a href="compare-loan.html" class="animsition-link">About</a></li>
-                            <li><a href="compare-loan.html" class="animsition-link">Services</a></li>
-                            <li><a href="compare-loan.html" class="animsition-link">Books</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    <?php include 'header.php'; ?>
     <div class="slider" id="slider">
         <!-- slider -->
         <div class="slider-img"><img src="images/imgs/slider.jpg" alt="Borrow - Loan Company Website Template" class="">
