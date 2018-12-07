@@ -424,7 +424,7 @@ index-1
 .mail-text { border-right: 2px solid #1b5ca5; }
 .rate-table { background-color: #fff; border-top: 1px solid #dee7f2; border-bottom: 1px solid #dee7f2; margin-top: -21px; }
 .loan-rate { font-size: 32px; color: #414855; margin-bottom: 0px; font-weight: 600; line-height: 1; }
-.rate-counter-block { border-right: 1px solid #dee7f2; padding-top: 20px; padding-bottom: 20px; }
+.rate-counter-block { padding-top: 20px; padding-bottom: 20px; }
 .rate-counter-block:first-child { }
 .rate-icon { float: left; padding-top: 5px; padding-right: 20px; padding-left: 20px; }
 .rate-box { }
