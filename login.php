@@ -17,8 +17,7 @@
                                 <div class="row">
                                     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                                         <div class="section-title mb60 text-center">
-                                            <h1>Create your Account</h1>
-                                            <p>Create Account and get Access to top Resources</p>
+                                            <h1>Login to your Account</h1>
                                         </div>
                                     </div>
                                 </div>
@@ -27,21 +26,6 @@
                                         <form class="form">
                                             <fieldset>
                                                  <div class="row">
-                                                <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 form-group ">
-                                                    <label class="control-label" for="name">First Name</label>
-                                                    <div class="">
-                                                        <input id="name" name="first_name" type="text" placeholder="your first name" class="form-control input-md" required>
-                                                        <span class="help-block"> </span>
-                                                    </div>
-                                                </div>
-                                                <!-- Text input-->
-                                                <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 form-group ">
-                                                    <label class=" control-label" for="email">Last Name</label>
-                                                    <div class="">
-                                                        <input id="email" name="last_name" type="text" placeholder="your last name" class="form-control input-md">
-                                                    </div>
-                                                </div>
-                                                <!-- Text input-->
                                                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 form-group ">
                                                     <label class="control-label" for="phone">Email</label>
                                                     <div class="">
@@ -56,12 +40,15 @@
                                                 <!-- Button -->
                                                 <div class="form-group col-xl-12 col-lg-12 col-md-6 col-sm-12 col-12">
                                                     <div class="">
-                                                        <button id="Submit" name="Submit" class="btn btn-primary btn-block">Sign up</button>
+                                                        <button id="Submit" name="Submit" class="btn btn-primary btn-block">Login</button>
                                                     </div>
                                                 </div>
                                                 <div class="form-group col-xl-12 col-lg-12 col-md-6 col-sm-12 col-12">
                                                     <div class="half">
-                                                        <p>Already a Member? <a href="login.php" class="highlight">Login</a></p>
+                                                        <p>Not a Member? <a href="signup.php" class="highlight">Create Account</a></p>
+                                                    </div>
+                                                    <div class="forgot">
+                                                        <a href="signup.php">Forgot Password?</a>
                                                     </div>
                                                 </div>
                                                 </div>
