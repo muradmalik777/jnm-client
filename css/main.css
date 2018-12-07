@@ -1,0 +1,32 @@
+.header .container{
+  min-width: 80% !important;
+}
+.img img{
+  width: inherit;
+  height: 200px;
+}
+.why .number-block{
+  height: 500px !important;
+}
+.why-us{
+  min-height: 300px !important;
+}
+
+.navigation {
+display: inline;
+
+}
+===================================================================
+.form{
+  width: 500px;
+  margin: auto;
+}
+.half{
+  width: 50%;
+  float: left;
+}
+.forgot{
+  width: fit-content;
+  float: right;
+}
+>>>>>>> 14d1d3cce8f77dc1a51f739cf924b37f4eb9ef68
