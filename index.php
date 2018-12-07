@@ -17,7 +17,7 @@
                                and leveling up your skill sets, but you just don't have the time.
                                We engineered a new, fun and engaging way to learn directly from Jesse Ruffolo
                                 <br></p>
-                            <a href="team.html" class="btn btn-default">Sign Up Now</a> </div>
+                            <a href="signup.php" class="btn btn-default">Sign Up Now</a> </div>
                         <!-- /.slider-captions -->
                     </div>
                 </div>
@@ -125,8 +125,7 @@
                  <div class="offset-xl-2 col-xl-8 offset-md-2 col-md-8 offset-md-2 col-md-8 col-sm-12 col-12">
                     <div class="mb100 text-center section-title">
                         <!-- section title start-->
-                        <h1>Fast &amp; Easy Application Process.</h1>
-                        <p>Suspendisse aliquet varius nunc atcibus lacus sit amet coed portaeri sque mami luctus viveed congue lobortis faucibus.</p>
+                        <h1>KNOWLEDGE BANK SOCIETY</h1>
                     </div>
                     <!-- /.section title start-->
                 </div>
@@ -135,27 +134,27 @@
                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12">
                     <div class="bg-white pinside40 number-block outline mb60 bg-boxshadow">
                         <div class="circle"><span class="number">1</span></div>
-                        <h3 class="number-title">Choose Loan Amount</h3>
+                        <h3 class="number-title">Choose yoour Program</h3>
                         <p>Suspendisse accumsan imperdue ligula dignissim sit amet vestibulum in mollis etfelis.</p>
                     </div>
                 </div>
                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12">
                     <div class="bg-white pinside40 number-block outline mb60 bg-boxshadow">
                         <div class="circle"><span class="number">2</span></div>
-                        <h3 class="number-title">Approved Your Loan</h3>
+                        <h3 class="number-title">Pay Your Fee</h3>
                         <p>Fusce tempor sstibulum varius sem nec mi luctus viverra edcongue lobortis faucibus.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12">
                     <div class="bg-white pinside40 number-block outline mb60 bg-boxshadow">
                         <div class="circle"><span class="number">3</span></div>
-                        <h3 class="number-title">Get Your Cash</h3>
+                        <h3 class="number-title">Become A Professional</h3>
                         <p>Get your money in minutes simtibulm varius semnec mluctus gue lobortis faucibus.</p>
                     </div>
                 </div>
             </div>
             <div class="row">
-                 <div class="offset-xl-2 col-xl-8 offset-md-2 col-md-8 offset-md-2 col-md-8 col-sm-12 col-12 text-center"> <a href="#" class="btn btn-default">View Our Loans</a> </div>
+                 <div class="offset-xl-2 col-xl-8 offset-md-2 col-md-8 offset-md-2 col-md-8 col-sm-12 col-12 text-center"> <a href="signup.php" class="btn btn-default">Sign Up Now</a> </div>
             </div>
         </div>
     </div>
