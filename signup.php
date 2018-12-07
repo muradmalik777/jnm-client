@@ -24,10 +24,9 @@
                                 </div>
                                 <div class="row">
                                     <div class="col-md-12">
-                                        <form class="">
+                                        <form class="form">
                                             <fieldset>
                                                  <div class="row">
-                                                <!-- Text input-->
                                                 <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 form-group ">
                                                     <label class="control-label" for="name">First Name</label>
                                                     <div class="">
@@ -43,16 +42,16 @@
                                                     </div>
                                                 </div>
                                                 <!-- Text input-->
-                                                <div class="col-xl-7 col-lg-7 col-md-12 col-sm-12 col-12 form-group ">
+                                                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 form-group ">
                                                     <label class="control-label" for="phone">Email</label>
                                                     <div class="">
                                                         <input id="phone" name="email" type="email" placeholder="enter your email" class="form-control">
                                                     </div>
                                                 </div>
-                                               <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 form-group slide-ranger ">
+                                               <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 form-group slide-ranger ">
                                                     <p id="slider-range-min"></p>
-                                                    <label for="amount" class="control-label">Loan Amount</label>
-                                                    <input type="text" id="amount" readonly class="form-control">
+                                                    <label for="amount" class="control-label">Password</label>
+                                                    <input type="password" name="password" id="amount" readonly class="form-control" placeholder="create account password">
                                                 </div>
                                                 <!-- Button -->
                                                 <div class="form-group col-xl-4 col-lg-12 col-md-6 col-sm-12 col-12">
