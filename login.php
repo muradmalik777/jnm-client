@@ -45,7 +45,7 @@
                                                 </div>
                                                 <div class="form-group col-xl-12 col-lg-12 col-md-6 col-sm-12 col-12">
                                                     <div class="half">
-                                                        <p>Not a Member? <a href="signup.php" class="highlight">Create Account</a></p>
+                                                        <p>Not a Member? <a href="signup.php">Create Account</a></p>
                                                     </div>
                                                     <div class="forgot">
                                                         <a href="signup.php">Forgot Password?</a>

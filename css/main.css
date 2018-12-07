@@ -15,11 +15,6 @@
   width: 500px;
   margin: auto;
 }
-.highlight{
-  border-bottom: 1px solid #303133;
-  padding: 1px !important;
-  color: #303133;
-}
 .half{
   width: 50%;
   float: left;

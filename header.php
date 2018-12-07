@@ -12,7 +12,7 @@
             <div class="col-xl-10 col-lg-10 col-md-12 col-sm-12 col-12">
                   <div id="navigation">
                     <ul>
-                        <li class="active"><a href="#" class="animsition-link">Knowledeg Bank Society</a></li>
+                        <li class="active"><a href="index.php" class="animsition-link">Knowledeg Bank Society</a></li>
                         <li><a href="#" class="animsition-link">Crupto Currency</a></li>
                         <li><a href="about.html" class="animsition-link">Social Media Marketing</a></li>
                         <li><a href="blog-listing.html" class="animsition-link">Credit Mentorship</a></li>

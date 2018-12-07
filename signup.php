@@ -61,7 +61,7 @@
                                                 </div>
                                                 <div class="form-group col-xl-12 col-lg-12 col-md-6 col-sm-12 col-12">
                                                     <div class="half">
-                                                        <p>Already a Member? <a href="login.php" class="highlight">Login</a></p>
+                                                        <p>Already a Member? <a href="login.php">Login</a></p>
                                                     </div>
                                                 </div>
                                                 </div>
