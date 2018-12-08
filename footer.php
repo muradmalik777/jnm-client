@@ -1,12 +1,4 @@
-
-<head>
-<?php include 'links.php' ?>
-
-</head>
-<body>
-
-
-
+<?php  ?>
 <div class="footer section-space100">
         <!-- footer -->
         <div class="container">
@@ -65,7 +57,7 @@
                             <li><a href="#">Services</a></li>
                             <li><a href="about.php">About </a></li>
                             <li><a href="#">News</a></li>
-                            <li><a href="FAQ.php">Faq</a></li>
+                            <li><a href="faq.php">Faq</a></li>
                             <li><a href="#">Contact Us</a></li>
                         </ul>
                     </div>
