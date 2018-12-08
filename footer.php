@@ -101,29 +101,14 @@
         </div>
     </div>
     <!-- /.footer -->
-    <div class="tiny-footer">
-        <!-- tiny footer -->
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6">
-                    <p>© Copyright 2018 | Knowledge Bank Society</p>
-                </div>
-                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6 text-right">
-                    <p>Terms of use | Privacy Policy</p>
-
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- /.tiny footer -->
-    <!-- back to top icon -->
-    <a href="#0" class="cd-top" title="Go to top">Top</a>
+    <!-- main JavaScript file -->
+    <script type="text/javascript" src="js/main.js"></script>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="js/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
     <script type="text/javascript" src="js/menumaker.js"></script>
-  
+
     <!-- sticky header -->
     <script type="text/javascript" src="js/jquery.sticky.js"></script>
     <script type="text/javascript" src="js/sticky-header.js"></script>
