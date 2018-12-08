@@ -11,7 +11,7 @@
         <!-- footer -->
         <div class="container">
             <div class="row">
-                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
+                <div class="col-xl-2 col-lg-2 col-md-4 col-sm-12 col-12">
                     <div class="footer-logo">
                         <!-- Footer Logo -->
                         <img src="images/imgs/logo2.png" alt="Knowledge Bank Society"> </div>
@@ -61,11 +61,11 @@
                     <div class="widget-footer mt40">
                         <!-- widget footer -->
                         <ul class="listnone">
-                            <li><a href="#">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li><a href="#">Services</a></li>
-                            <li><a href="#">About Us</a></li>
+                            <li><a href="about.php">About </a></li>
                             <li><a href="#">News</a></li>
-                            <li><a href="#">Faq</a></li>
+                            <li><a href="FAQ.php">Faq</a></li>
                             <li><a href="#">Contact Us</a></li>
                         </ul>
                     </div>
@@ -101,8 +101,7 @@
         </div>
     </div>
     <!-- /.footer -->
-    <!-- main JavaScript file -->
-    <script type="text/javascript" src="js/main.js"></script>
+
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="js/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
