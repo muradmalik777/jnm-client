@@ -1,5 +1,5 @@
 .header .container{
-  min-width: 80% !important;
+  min-width: 90% !important;
 }
 .img img{
   width: inherit;
@@ -14,9 +14,7 @@
 
 .navigation {
 display: inline;
-
 }
-===================================================================
 .form{
   width: 500px;
   margin: auto;
@@ -29,4 +27,3 @@ display: inline;
   width: fit-content;
   float: right;
 }
->>>>>>> 14d1d3cce8f77dc1a51f739cf924b37f4eb9ef68

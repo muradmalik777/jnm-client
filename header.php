@@ -13,7 +13,7 @@
                         <div id="navigation">
                         <!-- navigation start-->
                         <ul>
-                        <li class="active"><a href="#" class="animsition-link">Knowledeg Bank Society</a></li>
+                        <li class="active"><a href="index.php" class="animsition-link">Knowledeg Bank Society</a></li>
                         <li><a href="#" class="animsition-link">Crupto Currency</a></li>
                         <li><a href="about.html" class="animsition-link">Social Media Marketing</a></li>
                         <li><a href="blog-listing.html" class="animsition-link">Credit Mentorship</a></li>
@@ -21,6 +21,8 @@
                         <li><a href="compare-loan.html" class="animsition-link">About</a></li>
                         <li><a href="compare-loan.html" class="animsition-link">Services</a></li>
                         <li><a href="compare-loan.html" class="animsition-link">Books</a></li>
+                        <li><a href="login.php" class="animsition-link">Login</a></li>
+
                         </ul>
                     </div>
                     <!-- /.navigation start-->
