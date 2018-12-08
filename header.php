@@ -14,7 +14,7 @@
                         <!-- navigation start-->
                         <ul>
                         <li class="active"><a href="index.php" class="animsition-link">Knowledeg Bank Society</a></li>
-                        <li><a href="#" class="animsition-link">Crupto Currency</a></li>
+                        <li><a href="#" class="animsition-link">Crypto Currency</a></li>
                         <li><a href="about.html" class="animsition-link">Social Media Marketing</a></li>
                         <li><a href="blog-listing.html" class="animsition-link">Credit Mentorship</a></li>
                         <li><a href="compare-loan.html" class="animsition-link">Wired4Success</a></li>
