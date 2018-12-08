@@ -1,0 +1,86 @@
+.left{
+  border-right: 1px solid #ddd !important;
+}
+.left .one,.two{
+  width: 50%;
+  float: left;
+}
+.left h5{
+  font-size: 16px;
+  color: #666;
+  text-align: center;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+.left img{
+  display: block;
+  margin: auto;
+  width: 180px;
+  height: 180px;
+}
+.left .select-box{
+  width: 70%;
+  display: block;
+  margin: 8px auto;
+  border-radius: 3px;
+  padding: 8px 10px;
+  border: 1px solid #bbb;
+  color: #666;
+}
+#navpills-3 .left .select-box{
+  width: 85%;
+  display: block;
+  margin: 8px auto;
+  border-radius: 3px;
+  padding: 8px 10px;
+  border: 1px solid #bbb;
+  color: #666;
+}
+input[type=range]{
+  display: block;
+  margin: auto;
+}
+.left #demo,#demo2,#demo3{
+  text-align: center;
+  font-size: 110px;
+  font-weight: 600;
+  color: #666;
+}
+
+.right h5{
+  font-size: 16px;
+  color: #666;
+  text-align: center;
+  font-weight: 600;
+}
+.left .slider {
+    -webkit-appearance: none;
+    width: 80%;
+    height: 15px;
+    border-radius: 5px;
+    background: #4886f3;
+    outline: none;
+    opacity: 0.7;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+}
+
+.left .slider:hover {
+    opacity: 1;
+}
+.left .slider::-webkit-slider-thumb {
+    appearance: none;
+    width: 25px;
+    height: 25px;
+    border-radius: 10px;
+    background: #ddd;
+    cursor: pointer;
+}
+
+.left .slider::-moz-range-thumb {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background: #4CAF50;
+    cursor: pointer;
+}
