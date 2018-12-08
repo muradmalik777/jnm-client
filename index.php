@@ -4,7 +4,7 @@
 
 <body>
     <?php include 'header.php'; ?>
-    <div class="slider" id="slider">
+    <div class="slider pdb20" id="slider">
         <!-- slider -->
         <div class="slider-img"><img src="images/imgs/slider.jpg" alt="Borrow - Loan Company Website Template" class="">
             <div class="container">
@@ -24,7 +24,7 @@
             </div>
         </div>
     </div>
-    <div class="rate-table">
+    <div class="rate-table mt30">
         <div class="container">
             <div class="row">
                 <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-6">
