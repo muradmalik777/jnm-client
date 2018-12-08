@@ -11,7 +11,7 @@
         <!-- footer -->
         <div class="container">
             <div class="row">
-                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
+                <div class="col-xl-2 col-lg-2 col-md-4 col-sm-12 col-12">
                     <div class="footer-logo">
                         <!-- Footer Logo -->
                         <img src="images/imgs/logo2.png" alt="Knowledge Bank Society"> </div>
@@ -61,11 +61,11 @@
                     <div class="widget-footer mt40">
                         <!-- widget footer -->
                         <ul class="listnone">
-                            <li><a href="#">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li><a href="#">Services</a></li>
-                            <li><a href="#">About Us</a></li>
+                            <li><a href="about.php">About </a></li>
                             <li><a href="#">News</a></li>
-                            <li><a href="#">Faq</a></li>
+                            <li><a href="FAQ.php">Faq</a></li>
                             <li><a href="#">Contact Us</a></li>
                         </ul>
                     </div>
@@ -109,7 +109,7 @@
                     <p>© Copyright 2018 | Knowledge Bank Society</p>
                 </div>
                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6 text-right">
-                    <p>Terms of use | Privacy Policy</p>
+                    <p><a href="TOU.php">Terms of Service</a> | <a href="privacy.php">Privacy Policy</a></p>
 
                 </div>
             </div>
