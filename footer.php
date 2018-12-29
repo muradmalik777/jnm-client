@@ -1,12 +1,3 @@
-
-<head>
-<?php include 'links.php' ?>
-
-</head>
-<body>
-
-
-
 <div class="footer section-space100">
         <!-- footer -->
         <div class="container">
@@ -75,12 +66,14 @@
                     <div class="widget-footer mt40">
                         <!-- widget footer -->
                         <ul class="listnone">
-                            <li><a href="#">Car Loan</a></li>
-                            <li><a href="#">Personal Loan</a></li>
-                            <li><a href="#">Education Loan</a></li>
-                            <li><a href="#">Business Loan</a></li>
-                            <li><a href="#">Home Loan</a></li>
-                            <li><a href="#">Debt Consolidation</a></li>
+                            
+                            <li><a href="#">Crypto Currency Academy</a></li>
+                            <li><a href="#">Social Media Marketing</a></li>
+                            <li><a href="#">Credit Mentorship</a></li>
+                            <li><a href="#">Knowledgebanksociety</a></li>
+                            <li><a href="#">HysonBox</a></li>
+                            <li><a href="#">448Group</a></li>
+                            <li><a href="#">Newmoneydreams</a></li>
                         </ul>
                     </div>
                     <!-- /.widget footer -->
@@ -115,4 +108,4 @@
     <script src="js/accordion.js" type="text/javascript"></script>
     <!-- Back to top script -->
     <script src="js/back-to-top.js" type="text/javascript"></script>
-</body>
+
