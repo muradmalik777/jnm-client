@@ -56,7 +56,7 @@
                             <li><a href="#">Services</a></li>
                             <li><a href="about.php">About </a></li>
                             <li><a href="#">News</a></li>
-                            <li><a href="FAQ.php">Faq</a></li>
+                            <li><a href="faq.php">Faq</a></li>
                             <li><a href="#">Contact Us</a></li>
                         </ul>
                     </div>

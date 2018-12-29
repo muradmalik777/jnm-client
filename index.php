@@ -4,7 +4,7 @@
 
 <body>
     <?php include 'header.php'; ?>
-    <div class="slider" id="slider">
+    <div class="slider pdb20" id="slider">
         <!-- slider -->
         <div class="slider-img"><img src="images/imgs/slider.jpg" alt="Borrow - Loan Company Website Template" class="">
             <div class="container">
@@ -24,42 +24,42 @@
             </div>
         </div>
     </div>
-    <div class="rate-table">
+    <div class="rate-table mt30">
         <div class="container">
             <div class="row">
                 <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-6">
                     <div class="rate-counter-block">
-                        <div class="icon rate-icon  "> <img src="images/mortgage.svg" alt="Borrow - Loan Company Website Template" class="icon-svg-1x"></div>
+                        <div class="icon rate-icon  "> <img src="images/imgs/f-icon.png" alt="Borrow - Loan Company Website Template" class="icon-svg-1x"></div>
                         <div class="rate-box">
                             <h1 class="loan-rate">3.74%</h1>
-                            <small class="rate-title">Home Loans</small>
+                            <small class="rate-title">Facebook Followers</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-6">
                     <div class="rate-counter-block">
-                        <div class="icon rate-icon  "> <img src="images/loan.svg" alt="Borrow - Loan Company Website Template" class="icon-svg-1x"></div>
+                        <div class="icon rate-icon  "> <img src="images/imgs/i-icon.png" alt="Borrow - Loan Company Website Template" class="icon-svg-1x"></div>
                         <div class="rate-box">
                             <h1 class="loan-rate">8.96%</h1>
-                            <small class="rate-title">Personal Loans</small>
+                            <small class="rate-title">Instagram Followers</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-6">
                     <div class="rate-counter-block">
-                        <div class="icon rate-icon  "> <img src="images/car.svg" alt="Borrow - Loan Company Website Template" class="icon-svg-1x"></div>
+                        <div class="icon rate-icon  "> <img src="images/imgs/t-icon.png" alt="Borrow - Loan Company Website Template" class="icon-svg-1x"></div>
                         <div class="rate-box">
                             <h1 class="loan-rate">6.70%</h1>
-                            <small class="rate-title">Car Loans</small>
+                            <small class="rate-title">Twitter Followers</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-6">
                     <div class="rate-counter-block">
-                        <div class="icon rate-icon  "> <img src="images/credit-card.svg" alt="Borrow - Loan Company Website Template" class="icon-svg-1x"></div>
+                        <div class="icon rate-icon  "> <img src="images/imgs/l-icon.jpg" alt="Borrow - Loan Company Website Template" class="icon-svg-1x"></div>
                         <div class="rate-box">
                             <h1 class="loan-rate">9.00%</h1>
-                            <small class="rate-title">Credit card</small>
+                            <small class="rate-title">LinkedIn Followers</small>
                         </div>
                     </div>
                 </div>
@@ -141,7 +141,7 @@
                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12">
                     <div class="bg-white pinside40 number-block outline mb60 bg-boxshadow">
                         <div class="circle"><span class="number">2</span></div>
-                        <h3 class="number-title">Pay Your Fee</h3>
+                        <h3 class="number-title">Learn from Professionals</h3>
                         <p>Fusce tempor sstibulum varius sem nec mi luctus viverra edcongue lobortis faucibus.</p>
                     </div>
                 </div>
@@ -258,56 +258,6 @@
             </div>
         </div>
     </div>
-    <!-- <div class="section-space80">
-        <div class="container">
-            <div class="row">
-                 <div class="offset-xl-2 col-xl-8 offset-md-2 col-md-8 offset-md-2 col-md-8 col-sm-12 col-12">
-                    <div class="mb60 text-center section-title">
-                        <h1>Latest News from Loan Company</h1>
-                        <p> Our mission is to deliver reliable, latest news and opinions.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
-                    <div class="post-block mb30">
-                        <div class="post-img">
-                            <a href="blog-single.html" class="imghover"><img src="images/blog-img.jpg" alt="Borrow - Loan Company Website Template" class="img-fluid"></a>
-                        </div>
-                        <div class="bg-white pinside40 outline">
-                            <h2><a href="blog-single.html" class="title">Couples Buying New Home Loan</a></h2>
-                            <p class="meta"><span class="meta-date">Aug 25, 2017</span><span class="meta-author">By<a href="#"> Admin</a></span></p>
-                            <p>Fusce sed erat libasellus id orci quis ligula pret do lectus velit, a malesuada urna sodales eu.</p>
-                            <a href="blog-single.html" class="btn-link">Read More</a> </div>
-                    </div>
-                </div>
-                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
-                    <div class="post-block mb30">
-                        <div class="post-img">
-                            <a href="blog-single.html" class="imghover"><img src="images/blog-img-1.jpg" alt="Borrow - Loan Company Website Template" class="img-fluid"></a>
-                        </div>
-                        <div class="bg-white pinside40 outline">
-                            <h2><a href="blog-single.html" class="title">Business Man Thinking for Loan</a></h2>
-                            <p class="meta"><span class="meta-date">Aug 24, 2017</span><span class="meta-author">By<a href="#"> Admin</a></span></p>
-                            <p>Nulla vehicula nibh vel malesuada dapibus ringilla nunc mi sit amet fbendum sapierttitor nibh. </p>
-                            <a href="blog-single.html" class="btn-link">Read More</a> </div>
-                    </div>
-                </div>
-                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
-                    <div class="post-block mb30">
-                        <div class="post-img">
-                            <a href="blog-single.html" class="imghover"><img src="images/blog-img-2.jpg" alt="Borrow - Loan Company Website Templates" class="img-fluid"></a>
-                        </div>
-                        <div class="bg-white pinside40 outline">
-                            <h2><a href="blog-single.html" class="title">Are you students looking for loan ?</a></h2>
-                            <p class="meta"><span class="meta-date">Aug 23, 2017</span><span class="meta-author">By<a href="#"> Admin</a></span></p>
-                            <p>Malesuada urna sodales euusce sed erat libasellus id orci quis ligula pretium co ctus velit.</p>
-                            <a href="blog-single.html" class="btn-link">Read More</a> </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> -->
     <div class="section-space80 bg-white">
         <div class="container">
             <div class="row">
