@@ -1,6 +1,6 @@
 <?php
-if (!isset($_SESSION["userId"])) {
-  echo '<script>window.location.replace("../index.php");</script>';
+if (!isset($_SESSION["user_id"])) {
+  echo '<script>window.location.replace("../login.php");</script>';
 }
 ?>
 
