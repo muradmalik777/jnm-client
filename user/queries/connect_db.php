@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "quick_boosters";
+$dbname = "knowledgebanksociety";
 $conn = new mysqli($servername, $username, $password, $dbname);
 
 function encrypt( $string, $action = 'e' ) {

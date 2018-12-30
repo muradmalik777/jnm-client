@@ -99,6 +99,7 @@
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
     <script type="text/javascript" src="js/menumaker.js"></script>
+    <script src="js/main.js"></script>
 
     <!-- sticky header -->
     <script type="text/javascript" src="js/jquery.sticky.js"></script>
