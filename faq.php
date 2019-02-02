@@ -14,9 +14,9 @@
                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                     <div class="bg-white pinside30">
                         <div class="row">
-                           <div class="col-xl-4 col-lg-4 col-md-9 col-sm-12 col-12">
-                                <h1 class="page-title">Frequently Asked Questions</h1>
-                            </div>
+                           <div class="col-xl-6 col-lg-6 col-md-9 col-sm-12 col-12">
+                                <span><h1 class="page-title">Frequently Asked Questions</h1>
+                            </span></div>
                            
                         </div>
                     </div>
@@ -34,9 +34,7 @@
                         <div class="">
                             <div class="row">
                                 <div class="col-md-12 col-sm-12 col-xs-12">
-                                    <div class="section-title mb30">
-                                        <h1>General Questions</h1>
-                                    </div>
+                                    
                                 </div>
                             </div>
                             <div class="row">
@@ -92,14 +90,7 @@
                         </div>                     
 
                     
-                        <div class="section-space60">
-                            <div class="row">
-                                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                                    <div class="section-title mb30">
-                                        <h1>After You Apporved</h1>
-                                    </div>
-                                </div>
-                            </div>
+                       
                             <div class="row">
                                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 st-accordion">
                                     <div class="panel-group" id="accordion-4" role="tablist" aria-multiselectable="true">

@@ -68,7 +68,7 @@
                                             <li>Resell or make commercial use of the Website or Materials or make any derivative use of the Website or Materials.</li><br>
                                     </ol>
 
-                                Privacy Policy Company's Privacy Policy, as displayed on our Website, is part of these Terms.  Please read it, because you are agreeing that it applies to our collection and use of information from you.     
+                                Privacy Policy Company's Privacy Policy, as displayed on our Website, is part of these Terms.  Please read it, because you are agreeing that it applies to our collection and use of information from you.     <br><br>
 
                                 Purchasing Items Featured on our Website Company takes reasonable precautions to try to ensure that any prices quoted on the Website are correct, and to describe the items available on the Website as accurately as possible. However, when ordering Products or Services featured on the Website, please note that the Company does not warrant that product and service descriptions are accurate, complete, reliable, current, or error-free. If a Product or Service described on the Website is not as described when you receive or use it, you should contact our customer service department at <b> Knowledgebanksociety@gmail.com</b><br><br></p>
 
@@ -82,7 +82,7 @@
                                 </p><br>
 
 
-                                <h2>Pricing Errors and Omissions</h2>
+                                <h2>Cancellation and Refund Policy</h2>
                                 <p>
                                 For security reasons, our company policy is to confirm your account information to process your refund. You can reach out to us via email at us Knowledgebanksociety@gmail.com take between 2-30 days to show back into your bank account depending on your bank's policies. Please refer to our Terms of Use page for more information regarding our Cancellation and Refund Policy. The lessons will register as complete after you watch a video and leave a comment at the end.   <br><br>
 
