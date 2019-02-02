@@ -15,7 +15,7 @@
                     <div class="bg-white pinside30">
                         <div class="row">
                            <div class="col-xl-4 col-lg-4 col-md-9 col-sm-12 col-12">
-                                <h1 class="page-title">Privacy Policy</h1>
+                                <h1 class="page-title">PRIVACY POLICY</h1>
                             </div>
                            
                         </div>
@@ -67,19 +67,19 @@ The following policy explains how we collect and use personal information in det
                             </p>
 
                                 <h2>Sharing Information </h2>
-                                <p>Company reserves the right to use registrant PII: (1) as disclosed at the time such information is provided and (2) as disclosed in this Policy.    
+                                <p>Company reserves the right to use registrant PII: (1) as disclosed at the time such information is provided and (2) as disclosed in this Policy.   <br><br> 
 
 
-                                We DO NOT rent, sell, or otherwise share your PII and non-personal information for any purpose other than those limited purposes described herein. Those limited purposes may include sharing such information with Network Sites and vendors who need the information to process and fulfill customer transactions. <br><br>
+                                We <b>DO NOT</b> rent, sell, or otherwise share your PII and non-personal information for any purpose other than those limited purposes described herein. Those limited purposes may include sharing such information with Network Sites and vendors who need the information to process and fulfill customer transactions. <br><br>
 
 
                                 By clicking a submit button or taking other action on the Site to make a purchase and providing personal information on or through the Site, you agree:  <br><br>
 
 
-                                * all information you have provided is true and correct to the best of your knowledge; 
+                                * all information you have provided is true and correct to the best of your knowledge; <br><br>
 
 
-                                you are establishing a business relationship with Company, the Network Sites, and its other marketing partners; and 
+                                you are establishing a business relationship with Company, the Network Sites, and its other marketing partners; and <br>
                                 We may work with third-party marketing and advertising companies ("Ad Networks"). These companies may collect and use information about your use of the Site or services in order to provide advertisements about goods and services that may be of interest to you. Advertisements may be shown via the Site, the services, or third-party sites. These companies may place or recognize a unique cookie on your computer or use other technologies such as Web beacons. Our Privacy Policy does not cover any use of information that an Ad Network may collect from you. It also does not cover any information that you may choose to provide to an Ad Network or to an advertiser whose goods or services are advertised through the Site.<br><br>
 
 
@@ -124,7 +124,7 @@ The following policy explains how we collect and use personal information in det
                                 <p>Company may, from time to time, amend this Policy, in whole or part, in its sole discretion. Depending on the nature of the change, we will either announce the change (1) on the privacy policy page of the site, or (2) provide such notice via e-mail to registrants. Those changes will go into effect on the revision date shown in the revised Privacy Policy. Your continued use of our Site and services constitutes your consent to be bound by the revised Privacy Policy. If you do not agree with the terms of this Policy, as it may be amended from time to time, in whole or part, you must terminate your registration by unsubscribing at Knowledgebanksociety@gmail.com and cease all further use of the Site. <br><br></p>
 
                                 <h2>European Users</h2>
-                                <p>If you are a resident of the European Economic Area, you have the following data protection rights under the European Union’s General Data Protection Regulation, effective May 25, 2018: 
+                                <p>If you are a resident of the European Economic Area, you have the following data protection rights under the European Union’s General Data Protection Regulation, effective May 25, 2018: <br><br>
 
 
                                 If you wish to access, correct, update or request deletion of your personal information, you can do so at any time by contacting us at knowledgebanksociety@gmail.com You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive, or we may refuse to comply with your request in these circumstances. <br><br>
