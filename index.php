@@ -72,7 +72,7 @@
                 <div class="offset-xl-2 col-xl-8 offset-md-2 col-md-8 offset-md-2 col-md-8 col-sm-12 col-12">
                     <div class="mb60 text-center section-title">
                         <!-- section title start-->
-                        <h1>Best Of Jesse Ruffolo</h1>
+                        <h1>Already Completed</h1>
                     </div>
                     <!-- /.section title start-->
                 </div>
@@ -119,13 +119,181 @@
             </div>
         </div>
     </div>
+
+<div class="section-space80">
+        <div class="container">
+            <div class="row">
+                <div class="offset-xl-2 col-xl-8 offset-md-2 col-md-8 offset-md-2 col-md-8 col-sm-12 col-12">
+                    <div class="mb60 text-center section-title">
+                        <!-- section title start-->
+                        <h1>Crypto Currency</h1>
+                    </div>
+                    <!-- /.section title start-->
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="service" id="service">
+                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                        <div class="bg-white pinside40 service-block outline mb30">
+                            <div class="img mb40"> <img src="images/imgs/b1.jpg" alt="Borrow - Loan Company Website Template" class="icon-svg-2x"> </div>
+                            <h2><a href="#" class="title">Instagram Marketing</a></h2>
+                            <a href="#" class="btn-link">Read More</a> </div>
+                    </div>
+                   <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                        <div class="bg-white pinside40 service-block outline mb30">
+                            <div class="img mb40"> <img src="images/imgs/b2.jpg" alt="Borrow - Loan Company Website Template" class="icon-svg-2x"></div>
+                            <h2><a href="#" class="title">How To Build Websites</a></h2>
+                            <a href="#" class="btn-link">Read More</a> </div>
+                    </div>
+                   <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                        <div class="bg-white pinside40 service-block outline mb30">
+                            <div class="img mb40"> <img src="images/imgs/b3.jpg" alt="Borrow - Loan Company Website Template" class="icon-svg-2x"></div>
+                            <h2><a href="#" class="title">SEO Marketing Tips</a></h2>
+                            <a href="#" class="btn-link">Read More</a> </div>
+                    </div>
+                   <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                        <div class="bg-white pinside40 service-block outline mb30">
+                            <div class="img mb40"> <img src="images/imgs/b4.jpg" alt="Borrow - Loan Company Website Template" class="icon-svg-2x"></div>
+                            <h2><a href="#" class="title">Learn Free Credit Tips </a></h2>
+                            <a href="#" class="btn-link">Read More</a></div>
+                    </div>
+                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                         <div class="bg-white pinside40 service-block outline mb30">
+                             <div class="img mb40"> <img src="images/imgs/b5.jpg" alt="Borrow - Loan Company Website Template" class="icon-svg-2x"></div>
+                             <h2><a href="#" class="title">What Is Blockchain?</a></h2>
+                             <a href="#" class="btn-link">Read More</a></div>
+                     </div>
+                     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                          <div class="bg-white pinside40 service-block outline mb30">
+                              <div class="img mb40"> <img src="images/imgs/b6.jpg" alt="Borrow - Loan Company Website Template" class="icon-svg-2x"></div>
+                              <h2><a href="#" class="title">How To Save Money </a></h2>
+                              <a href="#" class="btn-link">Read More</a></div>
+                      </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+<div class="section-space80">
+        <div class="container">
+            <div class="row">
+                <div class="offset-xl-2 col-xl-8 offset-md-2 col-md-8 offset-md-2 col-md-8 col-sm-12 col-12">
+                    <div class="mb60 text-center section-title">
+                        <!-- section title start-->
+                        <h1>Social Media Marketing</h1>
+                    </div>
+                    <!-- /.section title start-->
+                </div>
+            </div>
+ <div class="row">
+                <div class="service" id="service">
+                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                        <div class="bg-white pinside40 service-block outline mb30">
+                            <div class="img mb40"> <img src="images/imgs/b1.jpg" alt="Borrow - Loan Company Website Template" class="icon-svg-2x"> </div>
+                            <h2><a href="#" class="title">Instagram Marketing</a></h2>
+                            <a href="#" class="btn-link">Read More</a> </div>
+                    </div>
+                   <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                        <div class="bg-white pinside40 service-block outline mb30">
+                            <div class="img mb40"> <img src="images/imgs/b2.jpg" alt="Borrow - Loan Company Website Template" class="icon-svg-2x"></div>
+                            <h2><a href="#" class="title">How To Build Websites</a></h2>
+                            <a href="#" class="btn-link">Read More</a> </div>
+                    </div>
+                   <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                        <div class="bg-white pinside40 service-block outline mb30">
+                            <div class="img mb40"> <img src="images/imgs/b3.jpg" alt="Borrow - Loan Company Website Template" class="icon-svg-2x"></div>
+                            <h2><a href="#" class="title">SEO Marketing Tips</a></h2>
+                            <a href="#" class="btn-link">Read More</a> </div>
+                    </div>
+                   <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                        <div class="bg-white pinside40 service-block outline mb30">
+                            <div class="img mb40"> <img src="images/imgs/b4.jpg" alt="Borrow - Loan Company Website Template" class="icon-svg-2x"></div>
+                            <h2><a href="#" class="title">Learn Free Credit Tips </a></h2>
+                            <a href="#" class="btn-link">Read More</a></div>
+                    </div>
+                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                         <div class="bg-white pinside40 service-block outline mb30">
+                             <div class="img mb40"> <img src="images/imgs/b5.jpg" alt="Borrow - Loan Company Website Template" class="icon-svg-2x"></div>
+                             <h2><a href="#" class="title">What Is Blockchain?</a></h2>
+                             <a href="#" class="btn-link">Read More</a></div>
+                     </div>
+                     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                          <div class="bg-white pinside40 service-block outline mb30">
+                              <div class="img mb40"> <img src="images/imgs/b6.jpg" alt="Borrow - Loan Company Website Template" class="icon-svg-2x"></div>
+                              <h2><a href="#" class="title">How To Save Money </a></h2>
+                              <a href="#" class="btn-link">Read More</a></div>
+                      </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<div class="section-space80">
+        <div class="container">
+            <div class="row">
+                <div class="offset-xl-2 col-xl-8 offset-md-2 col-md-8 offset-md-2 col-md-8 col-sm-12 col-12">
+                    <div class="mb60 text-center section-title">
+                        <!-- section title start-->
+                        <h1>Credit Mentor</h1>
+                    </div>
+                    <!-- /.section title start-->
+                </div>
+            </div>
+
+
+     <div class="row">
+                <div class="service" id="service">
+                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                        <div class="bg-white pinside40 service-block outline mb30">
+                            <div class="img mb40"> <img src="images/imgs/b1.jpg" alt="Borrow - Loan Company Website Template" class="icon-svg-2x"> </div>
+                            <h2><a href="#" class="title">Instagram Marketing</a></h2>
+                            <a href="#" class="btn-link">Read More</a> </div>
+                    </div>
+                   <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                        <div class="bg-white pinside40 service-block outline mb30">
+                            <div class="img mb40"> <img src="images/imgs/b2.jpg" alt="Borrow - Loan Company Website Template" class="icon-svg-2x"></div>
+                            <h2><a href="#" class="title">How To Build Websites</a></h2>
+                            <a href="#" class="btn-link">Read More</a> </div>
+                    </div>
+                   <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                        <div class="bg-white pinside40 service-block outline mb30">
+                            <div class="img mb40"> <img src="images/imgs/b3.jpg" alt="Borrow - Loan Company Website Template" class="icon-svg-2x"></div>
+                            <h2><a href="#" class="title">SEO Marketing Tips</a></h2>
+                            <a href="#" class="btn-link">Read More</a> </div>
+                    </div>
+                   <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                        <div class="bg-white pinside40 service-block outline mb30">
+                            <div class="img mb40"> <img src="images/imgs/b4.jpg" alt="Borrow - Loan Company Website Template" class="icon-svg-2x"></div>
+                            <h2><a href="#" class="title">Learn Free Credit Tips </a></h2>
+                            <a href="#" class="btn-link">Read More</a></div>
+                    </div>
+                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                         <div class="bg-white pinside40 service-block outline mb30">
+                             <div class="img mb40"> <img src="images/imgs/b5.jpg" alt="Borrow - Loan Company Website Template" class="icon-svg-2x"></div>
+                             <h2><a href="#" class="title">What Is Blockchain?</a></h2>
+                             <a href="#" class="btn-link">Read More</a></div>
+                     </div>
+                     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                          <div class="bg-white pinside40 service-block outline mb30">
+                              <div class="img mb40"> <img src="images/imgs/b6.jpg" alt="Borrow - Loan Company Website Template" class="icon-svg-2x"></div>
+                              <h2><a href="#" class="title">How To Save Money </a></h2>
+                              <a href="#" class="btn-link">Read More</a></div>
+                      </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
     <div class="bg-white section-space80">
         <div class="container">
             <div class="row">
                  <div class="offset-xl-2 col-xl-8 offset-md-2 col-md-8 offset-md-2 col-md-8 col-sm-12 col-12">
                     <div class="mb100 text-center section-title">
                         <!-- section title start-->
-                        <h1>KNOWLEDGE BANK SOCIETY</h1>
+                        <h1>What Makes Each Lesson So Powerful</h1>
                     </div>
                     <!-- /.section title start-->
                 </div>
@@ -134,22 +302,22 @@
                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12">
                     <div class="bg-white pinside40 number-block outline mb60 bg-boxshadow">
                         <div class="circle"><span class="number">1</span></div>
-                        <h3 class="number-title">Choose yoour Program</h3>
-                        <p>Suspendisse accumsan imperdue ligula dignissim sit amet vestibulum in mollis etfelis.</p>
+                        <h3 class="number-title">Video & Audiobook Lessons With Nuggets</h3>
+                        <p>Available on any device Listen to INSANELY POWERFUL Video lessons, audio lessons, short audio book nuggets that we create to give you massive jolts of ideas, creativity, motivation and learning. Whether on your commute, listening from home or at the gym: we've got you covered</p>
                     </div>
                 </div>
                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12">
                     <div class="bg-white pinside40 number-block outline mb60 bg-boxshadow">
                         <div class="circle"><span class="number">2</span></div>
-                        <h3 class="number-title">Learn from Professionals</h3>
-                        <p>Fusce tempor sstibulum varius sem nec mi luctus viverra edcongue lobortis faucibus.</p>
+                        <h3 class="number-title">Member Discussions- </h3>
+                        <p>Social learning is key. Network with like minded, powerful individuals and participate in LIVE sessions with top authors, CEOs and entrepreneurs! This is the most effective Mastermind you'll ever be a part of: and it's included for FREE with your membership. </p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12">
                     <div class="bg-white pinside40 number-block outline mb60 bg-boxshadow">
                         <div class="circle"><span class="number">3</span></div>
-                        <h3 class="number-title">Become A Professional</h3>
-                        <p>Get your money in minutes simtibulm varius semnec mluctus gue lobortis faucibus.</p>
+                        <h3 class="number-title">CHEAT SHEET & MEMORIZATION BOOKLET- </h3>
+                        <p>Read an entire book in ten minutes or less, using our proprietary one-page cheat sheets. Then dive in deep with our guided memorization booklets!</p>
                     </div>
                 </div>
             </div>
@@ -296,8 +464,18 @@
             </div>
         </div>
     </div>
-     <?php include "footer.php" ?>
-
+        <!-- footer -->
+        <?php include 'footer.php'; ?>  
+    <!-- /.footer -->
+    <div class="tiny-footer">
+        <!-- tiny footer -->
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6">
+                    <p>© Copyright 2016 | Borrow Loan Company</p>
+                </div>
+                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6 text-right">
+                    <p>Terms of use | Privacy Policy</p>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="js/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
