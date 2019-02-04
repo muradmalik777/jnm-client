@@ -7,21 +7,19 @@ if (isset($_POST)) {
     $email = $_POST['email'];
     $password = encrypt($_POST["password"], 'e');
 		$data = [];
-    $sql = "SELECT * FROM user_data WHERE email = '$email' AND password = '$password' AND status = 'active'";
+    $sql = "SELECT * FROM users WHERE email = '$email' AND password = '$password' AND status = 1";
     $result = $conn->query($sql);
     if ($result->num_rows >= 1){
 			while ($row = $result->fetch_assoc()) {
 				session_start();
-				$_SESSION["userId"] = $row["userId"];
-				$data["result"] = "1";
-        $data["date"] = date("d/m/Y");
+				$_SESSION["user_id"] = $row["id"];
+				$data["code"] = 1;
 				echo json_encode($data);
 			}
     }
     else {
-        $data["result"] = "0";
+        $data["code"] = 0;
 				$data["message"] = "invalid email or password";
-        $data["date"] = date("d/m/Y");
 				echo json_encode($data);
     }
 }

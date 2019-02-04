@@ -464,7 +464,6 @@
             </div>
         </div>
     </div>
-     
         <!-- footer -->
         <?php include 'footer.php'; ?>  
     <!-- /.footer -->
@@ -477,12 +476,6 @@
                 </div>
                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6 text-right">
                     <p>Terms of use | Privacy Policy</p>
-
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- back to top icon -->
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="js/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->

@@ -33,10 +33,12 @@
             </div>
             <hr class="dark-line">
             <div class="row">
-                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
+                <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12 col-12">
                     <div class="widget-text mt40">
                         <!-- widget text -->
-                        <p>Our goal at Borrow Loan Company is to provide access to personal loans and education loan, car loan, home loan at insight competitive interest rates lorem ipsums. We are the loan provider, you can use our loan product.</p>
+                        <p>If you're like most entrepreneurs you believe in expanding your knowledge
+                           and leveling up your skill sets, but you just don't have the time.
+                           We engineered a new, fun and engaging way to learn directly from Jesse Ruffolo</p>
                         <div class="row">
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6">
                                 <p class="address-text"><span><i class="icon-placeholder-3 icon-1x"></i> </span>3895 Sycamore Road Arlington, 97812 </p>
@@ -62,11 +64,11 @@
                     </div>
                     <!-- /.widget footer -->
                 </div>
-                <div class="col-xl-2 col-lg-2 col-md-4 col-sm-6 col-6">
+                <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
                     <div class="widget-footer mt40">
                         <!-- widget footer -->
                         <ul class="listnone">
-                            
+
                             <li><a href="#">Crypto Currency Academy</a></li>
                             <li><a href="#">Social Media Marketing</a></li>
                             <li><a href="#">Credit Mentorship</a></li>
@@ -100,6 +102,7 @@
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
     <script type="text/javascript" src="js/menumaker.js"></script>
+    <script src="js/main.js"></script>
 
     <!-- sticky header -->
     <script type="text/javascript" src="js/jquery.sticky.js"></script>
@@ -108,4 +111,3 @@
     <script src="js/accordion.js" type="text/javascript"></script>
     <!-- Back to top script -->
     <script src="js/back-to-top.js" type="text/javascript"></script>
-

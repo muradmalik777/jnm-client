@@ -23,24 +23,24 @@
                                 </div>
                                 <div class="row">
                                     <div class="col-md-12">
-                                        <form class="form">
+                                        <form class="form" id="userLoginForm">
                                             <fieldset>
                                                  <div class="row">
                                                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 form-group ">
-                                                    <label class="control-label" for="phone">Email</label>
+                                                    <label class="control-label" for="email">Email</label>
                                                     <div class="">
                                                         <input id="phone" name="email" type="email" placeholder="enter your email" class="form-control">
                                                     </div>
                                                 </div>
                                                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 form-group slide-ranger ">
                                                     <p id="slider-range-min"></p>
-                                                    <label for="amount" class="control-label">Password</label>
-                                                    <input type="password" name="password" id="amount" readonly class="form-control" placeholder="create account password">
+                                                    <label for="password" class="control-label">Password</label>
+                                                    <input type="password" name="password" id="amount" class="form-control" placeholder="create account password">
                                                 </div>
                                                 <!-- Button -->
                                                 <div class="form-group col-xl-12 col-lg-12 col-md-6 col-sm-12 col-12">
                                                     <div class="">
-                                                        <button id="Submit" name="Submit" class="btn btn-primary btn-block">Login</button>
+                                                        <input type="Submit" value="Submit" class="btn btn-primary btn-block">
                                                     </div>
                                                 </div>
                                                 <div class="form-group col-xl-12 col-lg-12 col-md-6 col-sm-12 col-12">
@@ -64,6 +64,8 @@
         </div>
     </div>
 </body>
+<script src="js/jquery.min.js"></script>
+<script src="js/main.js"></script>
 
 
 <!-- personal-loan.html  19:06:50  -->

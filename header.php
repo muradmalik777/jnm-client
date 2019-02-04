@@ -14,7 +14,7 @@
                         <!-- navigation start-->
                         <ul>
                         <li class="active"><a href="index.php" class="animsition-link">Knowledeg Bank Society</a></li>
-                        <li><a href="#" class="animsition-link">Crypto Currency Academy</a></li>
+                        <li><a href="coming-soon.php" class="animsition-link">Crypto Currency Academy</a></li>
                         <li><a href="about.html" class="animsition-link">Social Media Marketing</a></li>
                         <li><a href="blog-listing.html" class="animsition-link">Credit Mentorship</a></li>
                         <li><a href="wired4success.php" class="animsition-link">Wired4Success</a></li>
@@ -22,8 +22,9 @@
                         <li><a href="448group.php" class="animsition-link">448Group</a></li>
                         <li><a href="newmoneydreams.php" class="animsition-link">Newmoneydreams</a></li>
                         <li><a href="about.php" class="animsition-link">About Us</a></li>
-                        <li><a href="compare-loan.html" class="animsition-link">Services</a></li>
-                        <li><a href="compare-loan.html" class="animsition-link">Books</a></li>
+                        <li><a href="coming-soon.php" class="animsition-link">Services</a></li>
+                        <li><a href="coming-soon.php" class="animsition-link">Books</a></li>
+
                         <li><a href="login.php" class="animsition-link">Login</a></li>
 
                         </ul>
