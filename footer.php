@@ -20,8 +20,8 @@
                                 <div class="input-group">
                                     <input type="email" class="form-control" id="newsletter" name="newsletter" placeholder="Write E-Mail Address" required>
                                     <span class="input-group-btn">
-                <button class="btn btn-default" type="submit">Go!</button>
-                </span> </div>
+                                    <button class="btn btn-default" type="submit">Go!</button>
+                                    </span> </div>
                                 <!-- /input-group -->
                             </form>
                         </div>
@@ -87,9 +87,26 @@
                             <li><a href="#"><i class="fa fa-google-plus"></i>Google Plus</a></li>
                             <li><a href="#"><i class="fa fa-twitter"></i>Twitter</a></li>
                             <li><a href="#"><i class="fa fa-linkedin"></i>Linked In</a></li>
+                            <li><a href="#"><i class="fa fa-snapchat"></i>Snapchat</a></li>
+                            <li><a href="#"><i class="fa fa-youtube"></i>Youtube</a></li>
+
+
                         </ul>
                     </div>
                     <!-- /.widget footer -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="tiny-footer">
+        <!-- tiny footer -->
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6">
+                    <p>© Copyright 2019 | KnowledegeBankSociety</p>
+                </div>
+                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6 text-right">
+                    <p><a href="TOU.php">Terms of use</a> | <a href="privacy.php">Privacy Policy</a></p>
                 </div>
             </div>
         </div>

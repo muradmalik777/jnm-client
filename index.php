@@ -296,7 +296,7 @@
             <div class="row">
                 <div class="offset-xl-2 col-xl-8 offset-md-2 col-md-8 offset-md-2 col-md-8 col-sm-12 col-12">
                     <div class="mb60 text-center section-title">
-                        <h1>WHY KNOWLEDGE BANK SOCIETY?</h1>
+                        <h1>WHY CHOOSE KNOWLEDGE BANK SOCIETY?</h1>
                         <p>Suspendisse aliquet varius nunc atcibus lacus sit amet coed portaeri sque mami luctus viveed congue lobortis faucibus.</p>
                     </div>
                 </div>
@@ -312,7 +312,7 @@
                                     <h3>Dedicated Specialists</h3>
                                     <p>We feature only the Most Powerful lessons that are Guaranteed to immediately improve your financial and social life</p>
                                   </div>
-                                    <a href="#" class="btn btn-outline mt20">Meet the team</a>
+                                    <a href="signup.php" class="btn btn-outline mt20">Sign Up</a>
                                 </div>
                             </div>
                              <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 nopadding">
@@ -322,7 +322,7 @@
                                     <h3>Success Stories Rating</h3>
                                     <p>You will be taught directly by the Jesse Ruffolo for optimal and efficient learning...</p>
                                   </div>
-                                    <a href="#" class="btn btn-outline mt20">View Client Review</a>
+                                    <a href="about.php" class="btn btn-outline mt20">Meet The Team</a>
                                 </div>
                             </div>
                              <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 nopadding">
@@ -332,7 +332,7 @@
                                     <h3>No front Appraisal Fees!</h3>
                                     <p> You'll have access to exclusive video courses, audio lessons,  ebooks, PDF files that you can use in any combination to best suit your learning preferences...</p>
                                   </div>
-                                    <a href="#" class="btn btn-outline mt20">Why choose us</a>
+                                    <a href="about.php" class="btn btn-outline mt20">Why choose us</a>
                                 </div>
                             </div>
                         </div>
@@ -341,56 +341,7 @@
             </div>
         </div>
     </div>
-    <div class="bg-default section-space80">
-        <div class="container">
-            <div class="row">
-                 <div class="offset-xl-2 col-xl-8 offset-md-2 col-md-8 offset-md-2 col-md-8 col-sm-12 col-12">
-                    <div class="mb60 text-center section-title">
-                        <h1 class="title-white">Some of our Awesome Testimonials</h1>
-                        <p> You won’t be the only one lorem ipsu mauris diam mattises.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12 clearfix ">
-                    <div class="testimonial-block mb30">
-                        <div class="bg-white pinside30 mb20">
-                            <p class="testimonial-text"> “I loved the customer service you guys provided me. That was very nice and patient with questions I had. I would really like definitely come back here”</p>
-                        </div>
-                        <div class="testimonial-autor-box">
-                            <div class="testimonial-img pull-left"> <img src="images/testimonial-img.jpg" alt="Borrow - Loan Company Website Template"> </div>
-                            <div class="testimonial-autor pull-left">
-                                <h4 class="testimonial-name">Donny J. Griffin</h4></div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12 clearfix ">
-                    <div class="testimonial-block mb30">
-                        <div class="bg-white pinside30 mb20">
-                            <p class="testimonial-text"> “I had a good experience with Insight Loan Services. I am thankful to insight for the help you guys gave me. My loan was easy and fast. thank you Insigtht”</p>
-                        </div>
-                        <div class="testimonial-autor-box">
-                            <div class="testimonial-img pull-left"> <img src="images/testimonial-img-1.jpg" alt="Borrow - Loan Company Website Template"> </div>
-                            <div class="testimonial-autor pull-left">
-                                <h4 class="testimonial-name">Mary O. Randle</h4> </div>
-                        </div>
-                    </div>
-                </div>
-               <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12 clearfix ">
-                    <div class="testimonial-block mb30">
-                        <div class="bg-white pinside30 mb20">
-                            <p class="testimonial-text"> “We came out of their offices very happy with their service. They treated us very kind. Definite will come back. The waiting time was very appropriate.”</p>
-                        </div>
-                        <div class="testimonial-autor-box">
-                            <div class="testimonial-img pull-left"> <img src="images/testimonial-img-2.jpg" alt="Borrow - Loan Company Website Template"> </div>
-                            <div class="testimonial-autor pull-left">
-                                <h4 class="testimonial-name">Lindo E. Olson</h4> </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+
     <div class="section-space80 bg-white">
         <div class="container">
             <div class="row">
@@ -429,18 +380,61 @@
             </div>
         </div>
     </div>
+    <div class="bg-default section-space80">
+        <div class="container">
+            <div class="row">
+                 <div class="offset-xl-2 col-xl-9 offset-md-2 col-md-9 offset-md-2 col-md-9 col-sm-12 col-12">
+                    <div class="mb60 text-center section-title">
+                        <h1 class="title-white">Meet the CEO & Founder of KnowledegeBankSociety</h1>
+                        <p> You won’t be the only one lorem ipsu mauris diam mattises.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12 clearfix ">
+                    <div class="testimonial-block mb30">
+                        <div class="bg-white pinside30 mb20">
+                            <p class="testimonial-text"> “I loved the customer service you guys provided me. That was very nice and patient with questions I had. I would really like definitely come back here”</p>
+                        </div>
+                        <div class="testimonial-autor-box">
+                            <div class="testimonial-img pull-left"> <img src="images/testimonial-img.jpg" alt="Borrow - Loan Company Website Template"> </div>
+                            <div class="testimonial-autor pull-left">
+                                <h4 class="testimonial-name">Jesse Rufollo</h4></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12 clearfix ">
+                    <div class="testimonial-block mb30">
+                        <div class="bg-white pinside30 mb20">
+                            <p class="testimonial-text"> “I had a good experience with Insight Loan Services. I am thankful to insight for the help you guys gave me. My loan was easy and fast. thank you Insigtht”</p>
+                        </div>
+                        <div class="testimonial-autor-box">
+                            <div class="testimonial-img pull-left"> <img src="images/testimonial-img-1.jpg" alt="Borrow - Loan Company Website Template"> </div>
+                            <div class="testimonial-autor pull-left">
+                                <h4 class="testimonial-name">Mary O. Randle</h4> </div>
+                        </div>
+                    </div>
+                </div>
+               <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12 clearfix ">
+                    <div class="testimonial-block mb30">
+                        <div class="bg-white pinside30 mb20">
+                            <p class="testimonial-text"> “We came out of their offices very happy with their service. They treated us very kind. Definite will come back. The waiting time was very appropriate.”</p>
+                        </div>
+                        <div class="testimonial-autor-box">
+                            <div class="testimonial-img pull-left"> <img src="images/testimonial-img-2.jpg" alt="Borrow - Loan Company Website Template"> </div>
+                            <div class="testimonial-autor pull-left">
+                                <h4 class="testimonial-name">Lindo E. Olson</h4> </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
         <!-- footer -->
         <?php include 'footer.php'; ?>
     <!-- /.footer -->
-    <div class="tiny-footer">
-        <!-- tiny footer -->
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6">
-                    <p>© Copyright 2016 | Borrow Loan Company</p>
-                </div>
-                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6 text-right">
-                    <p>Terms of use | Privacy Policy</p>
+
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="js/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
