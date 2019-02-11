@@ -300,7 +300,7 @@
                         <p>Suspendisse aliquet varius nunc atcibus lacus sit amet coed portaeri sque mami luctus viveed congue lobortis faucibus.</p>
                     </div>
                 </div>
-            </div>asdfjasdlfjlasdjfl
+            </div>
             <div class="row why">
                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                     <div class="bg-white bg-boxshadow">
