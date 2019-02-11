@@ -27,7 +27,7 @@
     <div class="rate-table mt30">
         <div class="container">
             <div class="row">
-                <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-6">
+                <div class="col-xl-2 col-lg-2 col-md-2 col-sm-6 col-6">
                     <div class="rate-counter-block">
                         <div class="icon rate-icon  "> <img src="images/imgs/f-icon.png" alt="Borrow - Loan Company Website Template" class="icon-svg-1x"></div>
                         <div class="rate-box">
@@ -36,7 +36,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-6">
+                <div class="col-xl-2 col-lg-2 col-md-2 col-sm-6 col-6">
                     <div class="rate-counter-block">
                         <div class="icon rate-icon  "> <img src="images/imgs/i-icon.png" alt="Borrow - Loan Company Website Template" class="icon-svg-1x"></div>
                         <div class="rate-box">
@@ -45,7 +45,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-6">
+                <div class="col-xl-2 col-lg-2 col-md-2 col-sm-6 col-6">
                     <div class="rate-counter-block">
                         <div class="icon rate-icon  "> <img src="images/imgs/t-icon.png" alt="Borrow - Loan Company Website Template" class="icon-svg-1x"></div>
                         <div class="rate-box">
@@ -54,73 +54,38 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-6">
+                <div class="col-xl-2 col-lg-2 col-md-2 col-sm-6 col-6">
                     <div class="rate-counter-block">
-                        <div class="icon rate-icon  "> <img src="images/imgs/l-icon.jpg" alt="Borrow - Loan Company Website Template" class="icon-svg-1x"></div>
+                        <div class="icon rate-icon  "> <img src="images/imgs/l-icon.png" alt="Borrow - Loan Company Website Template" class="icon-svg-1x"></div>
                         <div class="rate-box">
                             <h1 class="loan-rate">9.00%</h1>
                             <small class="rate-title">LinkedIn Followers</small>
                         </div>
                     </div>
                 </div>
-            </div>
-        </div>
-    </div>
-    <div class="section-space80">
-        <div class="container">
-            <div class="row">
-                <div class="offset-xl-2 col-xl-8 offset-md-2 col-md-8 offset-md-2 col-md-8 col-sm-12 col-12">
-                    <div class="mb60 text-center section-title">
-                        <!-- section title start-->
-                        <h1>Already Completed</h1>
+                <div class="col-xl-2 col-lg-2 col-md-2 col-sm-6 col-6">
+                    <div class="rate-counter-block">
+                        <div class="icon rate-icon  "> <img src="images/imgs/s-icon.png" alt="Borrow - Loan Company Website Template" class="icon-svg-1x"></div>
+                        <div class="rate-box">
+                            <h1 class="loan-rate">9.00%</h1>
+                            <small class="rate-title">Snapchat Followers</small>
+                        </div>
                     </div>
-                    <!-- /.section title start-->
                 </div>
-            </div>
-            <div class="row">
-                <div class="service" id="service">
-                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                        <div class="bg-white pinside40 service-block outline mb30">
-                            <div class="img mb40"> <img src="images/imgs/b1.jpg" alt="Borrow - Loan Company Website Template" class="icon-svg-2x"> </div>
-                            <h2><a href="#" class="title">Instagram Marketing</a></h2>
-                            <a href="#" class="btn-link">Read More</a> </div>
+                <div class="col-xl-2 col-lg-2 col-md-2 col-sm-6 col-6">
+                    <div class="rate-counter-block">
+                        <div class="icon rate-icon  "> <img src="images/imgs/y-icon.png" alt="Borrow - Loan Company Website Template" class="icon-svg-1x"></div>
+                        <div class="rate-box">
+                            <h1 class="loan-rate">9.00%</h1>
+                            <small class="rate-title">Youtube Followers</small>
+                        </div>
                     </div>
-                   <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                        <div class="bg-white pinside40 service-block outline mb30">
-                            <div class="img mb40"> <img src="images/imgs/b2.jpg" alt="Borrow - Loan Company Website Template" class="icon-svg-2x"></div>
-                            <h2><a href="#" class="title">How To Build Websites</a></h2>
-                            <a href="#" class="btn-link">Read More</a> </div>
-                    </div>
-                   <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                        <div class="bg-white pinside40 service-block outline mb30">
-                            <div class="img mb40"> <img src="images/imgs/b3.jpg" alt="Borrow - Loan Company Website Template" class="icon-svg-2x"></div>
-                            <h2><a href="#" class="title">SEO Marketing Tips</a></h2>
-                            <a href="#" class="btn-link">Read More</a> </div>
-                    </div>
-                   <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                        <div class="bg-white pinside40 service-block outline mb30">
-                            <div class="img mb40"> <img src="images/imgs/b4.jpg" alt="Borrow - Loan Company Website Template" class="icon-svg-2x"></div>
-                            <h2><a href="#" class="title">Learn Free Credit Tips </a></h2>
-                            <a href="#" class="btn-link">Read More</a></div>
-                    </div>
-                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                         <div class="bg-white pinside40 service-block outline mb30">
-                             <div class="img mb40"> <img src="images/imgs/b5.jpg" alt="Borrow - Loan Company Website Template" class="icon-svg-2x"></div>
-                             <h2><a href="#" class="title">What Is Blockchain?</a></h2>
-                             <a href="#" class="btn-link">Read More</a></div>
-                     </div>
-                     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                          <div class="bg-white pinside40 service-block outline mb30">
-                              <div class="img mb40"> <img src="images/imgs/b6.jpg" alt="Borrow - Loan Company Website Template" class="icon-svg-2x"></div>
-                              <h2><a href="#" class="title">How To Save Money </a></h2>
-                              <a href="#" class="btn-link">Read More</a></div>
-                      </div>
                 </div>
             </div>
         </div>
     </div>
 
-<div class="section-space80">
+    <div class="section-space80">
         <div class="container">
             <div class="row">
                 <div class="offset-xl-2 col-xl-8 offset-md-2 col-md-8 offset-md-2 col-md-8 col-sm-12 col-12">
@@ -176,7 +141,7 @@
     </div>
 
 
-<div class="section-space80">
+    <div class="section-space80">
         <div class="container">
             <div class="row">
                 <div class="offset-xl-2 col-xl-8 offset-md-2 col-md-8 offset-md-2 col-md-8 col-sm-12 col-12">
@@ -187,7 +152,7 @@
                     <!-- /.section title start-->
                 </div>
             </div>
- <div class="row">
+            <div class="row">
                 <div class="service" id="service">
                     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                         <div class="bg-white pinside40 service-block outline mb30">
@@ -465,7 +430,7 @@
         </div>
     </div>
         <!-- footer -->
-        <?php include 'footer.php'; ?>  
+        <?php include 'footer.php'; ?>
     <!-- /.footer -->
     <div class="tiny-footer">
         <!-- tiny footer -->

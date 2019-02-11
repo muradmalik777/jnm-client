@@ -37,17 +37,13 @@ display: inline;
   text-align: center !important;
 }
 h1.coming-soon{
-  text-align: center !important;
   font-size: 90px;
-  color: #fff;
+  color: #000;
   width:100%;
 }
 p.coming-soon{
   font-size: 20px;
-  text-align: center !important;
 }
 a.coming-soon{
-  margin: auto !important;
-  display: block;
   width: fit-content;
 }

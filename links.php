@@ -6,7 +6,8 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="Borrow - is the loan company, Business Website Template.">
     <meta name="keywords" content="Financial Website Template, Bootstrap Template, Loan Product, Personal Loan">
-    <title>Borrow - A Loan Company Website Templates</title>
+    <title>KnowledgeBankSociety</title>
+    <link rel="shortcut icon" type="image/png" href="images/imgs/logo2.png"/>
     <!-- Bootstrap -->
     <link href="css/main.css" rel="stylesheet">
     <link href="css/bootstrap.min.css" rel="stylesheet">

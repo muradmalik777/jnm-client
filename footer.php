@@ -72,10 +72,9 @@
                             <li><a href="#">Crypto Currency Academy</a></li>
                             <li><a href="#">Social Media Marketing</a></li>
                             <li><a href="#">Credit Mentorship</a></li>
-                            <li><a href="#">Knowledgebanksociety</a></li>
                             <li><a href="#">HysonBox</a></li>
                             <li><a href="#">448Group</a></li>
-                            <li><a href="#">Newmoneydreams</a></li>
+                            <li><a href="#">New Money Dreams</a></li>
                         </ul>
                     </div>
                     <!-- /.widget footer -->
