@@ -55,7 +55,6 @@
                         <!-- widget footer -->
                         <ul class="listnone">
                             <li><a href="index.php">Home</a></li>
-                            <li><a href="#">Services</a></li>
                             <li><a href="about.php">About </a></li>
                             <li><a href="#">News</a></li>
                             <li><a href="faq.php">Faq</a></li>
@@ -89,8 +88,6 @@
                             <li><a href="#"><i class="fa fa-linkedin"></i>Linked In</a></li>
                             <li><a href="#"><i class="fa fa-snapchat"></i>Snapchat</a></li>
                             <li><a href="#"><i class="fa fa-youtube"></i>Youtube</a></li>
-
-
                         </ul>
                     </div>
                     <!-- /.widget footer -->
@@ -106,7 +103,7 @@
                     <p>© Copyright 2019 | KnowledegeBankSociety</p>
                 </div>
                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6 text-right">
-                    <p><a href="TOU.php">Terms of use</a> | <a href="privacy.php">Privacy Policy</a></p>
+                    <p><a href="TOU.php">Terms of use </a> | <a href="privacy.php"> Privacy Policy</a></p>
                 </div>
             </div>
         </div>

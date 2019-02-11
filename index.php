@@ -385,45 +385,25 @@
             <div class="row">
                  <div class="offset-xl-2 col-xl-9 offset-md-2 col-md-9 offset-md-2 col-md-9 col-sm-12 col-12">
                     <div class="mb60 text-center section-title">
-                        <h1 class="title-white">Meet the CEO & Founder of KnowledegeBankSociety</h1>
-                        <p> You won’t be the only one lorem ipsu mauris diam mattises.</p>
+                        <h1 class="title-white">Meet the CEO & Founder of Knowledege Bank Society</h1>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12 clearfix ">
                     <div class="testimonial-block mb30">
-                        <div class="bg-white pinside30 mb20">
-                            <p class="testimonial-text"> “I loved the customer service you guys provided me. That was very nice and patient with questions I had. I would really like definitely come back here”</p>
-                        </div>
                         <div class="testimonial-autor-box">
                             <div class="testimonial-img pull-left"> <img src="images/testimonial-img.jpg" alt="Borrow - Loan Company Website Template"> </div>
-                            <div class="testimonial-autor pull-left">
-                                <h4 class="testimonial-name">Jesse Rufollo</h4></div>
+                            <div class="testimonial-autor">
+                                <h4 class="testimonial-name">Jesse Rufollo</h4>
+                            </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12 clearfix ">
+               <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12 col-12 clearfix ">
                     <div class="testimonial-block mb30">
                         <div class="bg-white pinside30 mb20">
-                            <p class="testimonial-text"> “I had a good experience with Insight Loan Services. I am thankful to insight for the help you guys gave me. My loan was easy and fast. thank you Insigtht”</p>
-                        </div>
-                        <div class="testimonial-autor-box">
-                            <div class="testimonial-img pull-left"> <img src="images/testimonial-img-1.jpg" alt="Borrow - Loan Company Website Template"> </div>
-                            <div class="testimonial-autor pull-left">
-                                <h4 class="testimonial-name">Mary O. Randle</h4> </div>
-                        </div>
-                    </div>
-                </div>
-               <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12 clearfix ">
-                    <div class="testimonial-block mb30">
-                        <div class="bg-white pinside30 mb20">
-                            <p class="testimonial-text"> “We came out of their offices very happy with their service. They treated us very kind. Definite will come back. The waiting time was very appropriate.”</p>
-                        </div>
-                        <div class="testimonial-autor-box">
-                            <div class="testimonial-img pull-left"> <img src="images/testimonial-img-2.jpg" alt="Borrow - Loan Company Website Template"> </div>
-                            <div class="testimonial-autor pull-left">
-                                <h4 class="testimonial-name">Lindo E. Olson</h4> </div>
+                            <p class="testimonial-text"> “Hey There How Are You Today? I'm Jesse Ruffolo A Young Entrepreneur, Currently  CEO & FOUNDER Of Newmoneydreams, CO-FOUNDER Of 448Group Digital Marketing Agency, CEO & FOUNDER Of HysonBox, Your Premium Green Tea In A Box & Finally The CEO & FOUNDER Of Knowledgebanksociety. Last year, I realized that none of my accomplishments would have been possible if it wasn't for what I learned from my mentors (Tai Lopez, authors, Other entrepreneurs and CEO's). Everybody knows that the current education system is outdated but I decided to actually do something about it instead of watching from the sidelines... Are You Ready For Knowledgebanksociety?”</p>
                         </div>
                     </div>
                 </div>
@@ -433,7 +413,7 @@
 
         <!-- footer -->
         <?php include 'footer.php'; ?>
-    <!-- /.footer -->
+        <!-- /.footer -->
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="js/jquery.min.js"></script>
