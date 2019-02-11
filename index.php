@@ -411,9 +411,41 @@
         </div>
     </div>
 
-        <!-- footer -->
-        <?php include 'footer.php'; ?>
-        <!-- /.footer -->
+    <!-- social feeds -->
+    <div class="section-space80 bg-white">
+        <div class="container">
+            <div class="row">
+               <div class="offset-xl-2 col-xl-8 offset-md-2 col-md-8 offset-md-2 col-md-8 col-sm-12 col-12">
+                    <div class="mb60 text-center section-title">
+                        <!-- section title-->
+                        <h1>Follow Us on Social Media</h1>
+                    </div>
+                    <!-- /.section title-->
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                    <div class="bg-white bg-boxshadow outline text-center mb30">
+                      <iframe src="http://localhost/jnm-client/index.php" width="100%" height="300px"></iframe>
+                    </div>
+                </div>
+                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                    <div class="bg-white bg-boxshadow outline text-center mb30">
+                      <iframe src="http://localhost/jnm-client/index.php" width="100%" height="300px"></iframe>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                    <div class="bg-white bg-boxshadow outline text-center mb30">
+                      <iframe src="http://localhost/jnm-client/index.php" width="100%" height="300px"></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- footer -->
+    <?php include 'footer.php'; ?>
+    <!-- /.footer -->
 
 </body>
 </html>
