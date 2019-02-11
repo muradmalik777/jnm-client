@@ -7,7 +7,7 @@
                     <p class="mail-text">Welcome to KnowledegeBankSociety</p>
                 </div>
                 <div class="col-xl-8 col-lg-7 col-md-12 col-sm-12 col-12 text-right">
-                    <div class="top-nav"> <span class="top-text"><a href="index.php" class="animsition-link">Knowledeg Bank Society</a> </span> <span class="top-text"><a href="login.php" class="animsition-link">Login</a></span> <span class="top-text"></span> </div>
+                    <div class="top-nav"> <span class="top-text"><a href="index.php" class="animsition-link">Knowledeg Bank Society</a> </span> <span class="top-text"><a href="login.php" class="animsition-link">Login</a></span> <span class="top-text">647-772-9884</span> </div>
                 </div>
             </div>
         </div>

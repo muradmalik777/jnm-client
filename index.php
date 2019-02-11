@@ -195,20 +195,18 @@
         </div>
     </div>
 
-<div class="section-space80">
+    <div class="section-space80">
         <div class="container">
             <div class="row">
-                <div class="offset-xl-2 col-xl-8 offset-md-2 col-md-8 offset-md-2 col-md-8 col-sm-12 col-12">
-                    <div class="mb60 text-center section-title">
-                        <!-- section title start-->
-                        <h1>Credit Mentor</h1>
-                    </div>
-                    <!-- /.section title start-->
-                </div>
+                  <div class="offset-xl-2 col-xl-8 offset-md-2 col-md-8 offset-md-2 col-md-8 col-sm-12 col-12">
+                      <div class="mb60 text-center section-title">
+                          <!-- section title start-->
+                          <h1>Credit Mentor</h1>
+                      </div>
+                      <!-- /.section title start-->
+                  </div>
             </div>
-
-
-     <div class="row">
+            <div class="row">
                 <div class="service" id="service">
                     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                         <div class="bg-white pinside40 service-block outline mb30">
@@ -274,14 +272,14 @@
                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12">
                     <div class="bg-white pinside40 number-block outline mb60 bg-boxshadow">
                         <div class="circle"><span class="number">2</span></div>
-                        <h3 class="number-title">Member Discussions- </h3>
+                        <h3 class="number-title">Member Discussions</h3>
                         <p>Social learning is key. Network with like minded, powerful individuals and participate in LIVE sessions with top authors, CEOs and entrepreneurs! This is the most effective Mastermind you'll ever be a part of: and it's included for FREE with your membership. </p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12">
                     <div class="bg-white pinside40 number-block outline mb60 bg-boxshadow">
                         <div class="circle"><span class="number">3</span></div>
-                        <h3 class="number-title">CHEAT SHEET & MEMORIZATION BOOKLET- </h3>
+                        <h3 class="number-title">CHEAT SHEET & MEMORIZATION BOOKLET</h3>
                         <p>Read an entire book in ten minutes or less, using our proprietary one-page cheat sheets. Then dive in deep with our guided memorization booklets!</p>
                     </div>
                 </div>
@@ -296,7 +294,7 @@
             <div class="row">
                 <div class="offset-xl-2 col-xl-8 offset-md-2 col-md-8 offset-md-2 col-md-8 col-sm-12 col-12">
                     <div class="mb60 text-center section-title">
-                        <h1>WHY CHOOSE KNOWLEDGE BANK SOCIETY?</h1>
+                        <h1>Why Choose Knowledege Bank Society?</h1>
                         <p>Suspendisse aliquet varius nunc atcibus lacus sit amet coed portaeri sque mami luctus viveed congue lobortis faucibus.</p>
                     </div>
                 </div>
@@ -308,8 +306,7 @@
                             <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 nopadding">
                                 <div class="bg-white pinside60 number-block outline">
                                   <div class="why-us">
-                                    <div class="mb20"><i class="icon-command  icon-4x icon-primary"></i></div>
-                                    <h3>Dedicated Specialists</h3>
+                                    <div class="mb20"><i class="fas fa-graduation-cap icon mb30"></i></i></div>
                                     <p>We feature only the Most Powerful lessons that are Guaranteed to immediately improve your financial and social life</p>
                                   </div>
                                     <a href="signup.php" class="btn btn-outline mt20">Sign Up</a>
@@ -318,8 +315,7 @@
                              <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 nopadding">
                                 <div class="bg-white pinside60 number-block outline">
                                   <div class="why-us">
-                                    <div class="mb20"><i class="icon-cup  icon-4x icon-primary"></i></div>
-                                    <h3>Success Stories Rating</h3>
+                                    <div class="mb20"><i class="far fa-star icon mb30"></i></div>
                                     <p>You will be taught directly by the Jesse Ruffolo for optimal and efficient learning...</p>
                                   </div>
                                     <a href="about.php" class="btn btn-outline mt20">Meet The Team</a>
@@ -328,8 +324,7 @@
                              <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 nopadding">
                                 <div class="bg-white pinside60 number-block outline">
                                   <div class="why-us">
-                                    <div class="mb20"><i class="icon-calculator  icon-4x icon-primary"></i></div>
-                                    <h3>No front Appraisal Fees!</h3>
+                                    <div class="mb20"><i class="fas fa-video icon mb30"></i></div>
                                     <p> You'll have access to exclusive video courses, audio lessons,  ebooks, PDF files that you can use in any combination to best suit your learning preferences...</p>
                                   </div>
                                     <a href="about.php" class="btn btn-outline mt20">Why choose us</a>
@@ -349,7 +344,7 @@
                     <div class="mb60 text-center section-title">
                         <!-- section title-->
                         <h1>We are Here to Help You</h1>
-                        <p>Our mission is to deliver reliable, latest news and opinions.</p>
+                        <p>My Purpose, Your Success!</p>
                     </div>
                     <!-- /.section title-->
                 </div>
@@ -358,29 +353,31 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                     <div class="bg-white bg-boxshadow pinside40 outline text-center mb30">
                         <div class="mb40"><i class="icon-calendar-3 icon-2x icon-default"></i></div>
-                        <h2 class="capital-title">Apply For Loan</h2>
-                        <p>Looking to buy a car or home loan? then apply for loan now.</p>
-                        <a href="#" class="btn-link">Get Appointment</a> </div>
+                        <h2 class="capital-title">Our Programs</h2>
+                        <p>Get Full Access To Our Membership Knowledgebanksociety</p>
+                        <a href="#" class="btn-link">Join Now</a> </div>
                 </div>
                  <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                     <div class="bg-white bg-boxshadow pinside40 outline text-center mb30">
                         <div class="mb40"><i class="icon-phone-call icon-2x icon-default"></i></div>
                         <h2 class="capital-title">Call us at </h2>
-                        <h1 class="text-big">800-123-456 / 789 </h1>
-                        <p>lnfo@loanadvisor.com</p>
-                        <a href="#" class="btn-link">Contact us</a> </div>
+                        <h1 class="text-big">647-772-9884</h1>
+                        <p>kbs@gmail.com</p>
+                        <a href="contact.php" class="btn-link">Contact us</a> </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                     <div class="bg-white bg-boxshadow pinside40 outline text-center mb30">
                         <div class="mb40"> <i class="icon-users icon-2x icon-default"></i></div>
-                        <h2 class="capital-title">Talk to Advisor</h2>
-                        <p>Need to loan advise? Talk to our Loan advisors.</p>
-                        <a href="#" class="btn-link">Meet The Advisor</a> </div>
+                        <h2 class="capital-title">About Us</h2>
+                        <p>Learn More About knowledgebanksociety? </p>
+                        <a href="#ceo" class="btn-link">Meet The CEO</a> </div>
                 </div>
             </div>
         </div>
     </div>
-    <div class="bg-default section-space80">
+
+    <!-- CEO section -->
+    <div class="bg-default section-space80" id="ceo">
         <div class="container">
             <div class="row">
                  <div class="offset-xl-2 col-xl-9 offset-md-2 col-md-9 offset-md-2 col-md-9 col-sm-12 col-12">
@@ -393,7 +390,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12 clearfix ">
                     <div class="testimonial-block mb30">
                         <div class="testimonial-autor-box">
-                            <div class="testimonial-img pull-left"> <img src="images/testimonial-img.jpg" alt="Borrow - Loan Company Website Template"> </div>
+                            <div class="testimonial-img pull-left"> <img src="images/imgs/ceo.jpg" alt="Borrow - Loan Company Website Template"> </div>
                             <div class="testimonial-autor">
                                 <h4 class="testimonial-name">Jesse Rufollo</h4>
                             </div>
@@ -411,24 +408,41 @@
         </div>
     </div>
 
+    <!-- social feeds -->
+    <div class="section-space80 bg-white">
+        <div class="container">
+            <div class="row">
+               <div class="offset-xl-2 col-xl-8 offset-md-2 col-md-8 offset-md-2 col-md-8 col-sm-12 col-12">
+                    <div class="mb60 text-center section-title">
+                        <!-- section title-->
+                        <h1>Follow Us On Social Media</h1>
+                    </div>
+                    <!-- /.section title-->
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                    <div class="bg-white bg-boxshadow outline text-center mb30">
+                      <iframe src="http://localhost/jnm-client/index.php" width="100%" height="300px"></iframe>
+                    </div>
+                </div>
+                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                    <div class="bg-white bg-boxshadow outline text-center mb30">
+                      <iframe src="http://localhost/jnm-client/index.php" width="100%" height="300px"></iframe>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                    <div class="bg-white bg-boxshadow outline text-center mb30">
+                      <iframe src="http://localhost/jnm-client/index.php" width="100%" height="300px"></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
         <!-- footer -->
         <?php include 'footer.php'; ?>
         <!-- /.footer -->
 
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="js/jquery.min.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="js/menumaker.js"></script>
-
-    <!-- sticky header -->
-    <script type="text/javascript" src="js/jquery.sticky.js"></script>
-    <script type="text/javascript" src="js/sticky-header.js"></script>
-    <!-- slider script -->
-    <script type="text/javascript" src="js/owl.carousel.min.js"></script>
-    <script type="text/javascript" src="js/slider-carousel.js"></script>
-    <script type="text/javascript" src="js/service-carousel.js"></script>
-    <!-- Back to top script -->
-    <script src="js/back-to-top.js" type="text/javascript"></script>
 </body>
 </html>

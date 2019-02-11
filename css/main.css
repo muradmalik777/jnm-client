@@ -47,3 +47,14 @@ p.coming-soon{
 a.coming-soon{
   width: fit-content;
 }
+.icon{
+  font-size: 60px;
+  color: #e67e22 !important;
+}
+iframe:focus {
+  outline: none;
+}
+
+iframe[seamless] {
+  display: block;
+}
