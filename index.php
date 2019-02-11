@@ -423,17 +423,17 @@
             <div class="row">
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                     <div class="bg-white bg-boxshadow outline text-center mb30">
-                      <iframe src="http://localhost/jnm-client/index.php" width="100%" height="300px"></iframe>
+                      <iframe src="https://twitter.com/login" width="100%" height="300px"></iframe>
                     </div>
                 </div>
                  <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                     <div class="bg-white bg-boxshadow outline text-center mb30">
-                      <iframe src="http://localhost/jnm-client/index.php" width="100%" height="300px"></iframe>
+                      <iframe src="https://twitter.com/login" width="100%" height="300px"></iframe>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                     <div class="bg-white bg-boxshadow outline text-center mb30">
-                      <iframe src="http://localhost/jnm-client/index.php" width="100%" height="300px"></iframe>
+                      <iframe src="https://twitter.com/login" width="100%" height="300px"></iframe>
                     </div>
                 </div>
             </div>
