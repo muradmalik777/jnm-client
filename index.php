@@ -415,7 +415,7 @@
                <div class="offset-xl-2 col-xl-8 offset-md-2 col-md-8 offset-md-2 col-md-8 col-sm-12 col-12">
                     <div class="mb60 text-center section-title">
                         <!-- section title-->
-                        <h1>Follow Us On Social Media</h1>
+                        <h1>Follow Us on Social Media</h1>
                     </div>
                     <!-- /.section title-->
                 </div>
