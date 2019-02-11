@@ -82,12 +82,12 @@
                     <div class="widget-social mt40">
                         <!-- widget footer -->
                         <ul class="listnone">
-                            <li><a href="#"><i class="fa fa-facebook"></i>Facebook</a></li>
-                            <li><a href="#"><i class="fa fa-google-plus"></i>Google Plus</a></li>
-                            <li><a href="#"><i class="fa fa-twitter"></i>Twitter</a></li>
-                            <li><a href="#"><i class="fa fa-linkedin"></i>Linked In</a></li>
-                            <li><a href="#"><i class="fa fa-snapchat"></i>Snapchat</a></li>
-                            <li><a href="#"><i class="fa fa-youtube"></i>Youtube</a></li>
+                            <li><a href="#"><i class="fab fa-facebook"></i>Facebook</a></li>
+                            <li><a href="#"><i class="fab fa-google-plus"></i>Google Plus</a></li>
+                            <li><a href="#"><i class="fab fa-twitter"></i>Twitter</a></li>
+                            <li><a href="#"><i class="fab fa-linkedin"></i>Linked In</a></li>
+                            <li><a href="#"><i class="fab fa-snapchat"></i>Snapchat</a></li>
+                            <li><a href="#"><i class="fab fa-youtube"></i>Youtube</a></li>
                         </ul>
                     </div>
                     <!-- /.widget footer -->
