@@ -131,56 +131,56 @@
                         <!-- section title start-->
                         <h1 class="mb40">Your program outline Every lesson you'll learn in Wired4Success</h1>
                         <div class="row">
-                          <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12 mb20">
-                              <div class="bg-white pinside20 number-block bg-boxshadow">
+                          <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12 mb30">
+                              <div class="bg-light pinside20 number-block bg-boxshadow">
                                   <p class="mb0">Lesson One</p>
                                   <h4 class="number-title">What do you want?</h4>
                               </div>
                           </div>
-                          <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12 mb20">
-                              <div class="bg-white pinside20 number-block bg-boxshadow">
+                          <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12 mb30">
+                              <div class="bg-light pinside20 number-block bg-boxshadow">
                                   <p class="mb0">Lesson Two</p>
                                   <h4 class="number-title">See Bright future Before It Happens</h4>
                               </div>
                           </div>
-                          <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12 mb20">
-                              <div class="bg-white pinside20 number-block bg-boxshadow">
+                          <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12 mb30">
+                              <div class="bg-light pinside20 number-block bg-boxshadow">
                                   <p class="mb0">Lesson Three</p>
                                   <h4 class="number-title">Reprogramming Your Brain Using CBT</h4>
                               </div>
                           </div>
-                          <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12 mb20">
-                              <div class="bg-white pinside20 number-block bg-boxshadow">
+                          <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12 mb30">
+                              <div class="bg-light pinside20 number-block bg-boxshadow">
                                   <p class="mb0">Lesson Four</p>
                                   <h4 class="number-title">Using CBT to Improve Your Life</h4>
                               </div>
                           </div>
-                          <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12 mb20">
-                              <div class="bg-white pinside20 number-block bg-boxshadow">
+                          <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12 mb30">
+                              <div class="bg-light pinside20 number-block bg-boxshadow">
                                   <p class="mb0">Lesson Five</p>
                                   <h4 class="number-title">Becoming More Mindful</h4>
                               </div>
                           </div>
-                          <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12 mb20">
-                              <div class="bg-white pinside20 number-block bg-boxshadow">
+                          <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12 mb30">
+                              <div class="bg-light pinside20 number-block bg-boxshadow">
                                   <p class="mb0">Lesson Six</p>
                                   <h4 class="number-title">Kaizen and The Law of Attraction</h4>
                               </div>
                           </div>
-                          <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12 mb20">
-                              <div class="bg-white pinside20 number-block bg-boxshadow">
+                          <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12 mb30">
+                              <div class="bg-light pinside20 number-block bg-boxshadow">
                                   <p class="mb0">Lesson Seven</p>
                                   <h4 class="number-title">Overcoming Obstacles</h4>
                               </div>
                           </div>
-                          <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12 mb20">
-                              <div class="bg-white pinside20 number-block bg-boxshadow">
+                          <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12 mb30">
+                              <div class="bg-light pinside20 number-block bg-boxshadow">
                                   <p class="mb0">Lesson Eight</p>
                                   <h4 class="number-title">Designing Your Ideal Lifestyle</h4>
                               </div>
                           </div>
-                          <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12 mb20">
-                              <div class="bg-white pinside20 number-block bg-boxshadow">
+                          <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12 mb30">
+                              <div class="bg-light pinside20 number-block bg-boxshadow">
                                   <p class="mb0">Lesson Nine</p>
                                   <h4 class="number-title">Becoming More Present</h4>
                               </div>
