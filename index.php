@@ -208,7 +208,7 @@
             </div>
 
 
-     <div class="row">
+            <div class="row">
                 <div class="service" id="service">
                     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                         <div class="bg-white pinside40 service-block outline mb30">
