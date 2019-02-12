@@ -1,7 +1,7 @@
 <?php include 'links.php'; ?>
 <?php include 'header.php'; ?>
     <!-- .top-bar -->
-    
+
     <!-- ./.top-bar -->
     <!-- hero-wrapper -->
     <div class="lead-hero-wrapper">
@@ -10,16 +10,12 @@
                 <div class="col-xl-5 col-lg-5 col-md-12 col-sm-12 col-12">
                     <!-- hero-caption -->
                     <div class="lead-hero-caption">
-                        <h1 class="lead-hero-title">WIRED4SUCCESS</h1>
-                        <p>This Is Free Program Membership For My Students Free Value For Everyone, its to generate leads and build relations with my fans and audience. </p>
-                        
-                        <span>Learn the fundamentals Of Mastering Your Mindset!  </span>
-                        
-                       
+                        <h1 class="lead-hero-title">WIRED FOR SUCCESS</h1>
+                        <!-- <p>This Is Free Program Membership For My Students Free Value For Everyone, its to generate leads and build relations with my fans and audience. </p> -->
                     </div>
                     <!-- /.hero-caption -->
                 </div>
-                
+
             </div>
         </div>
     </div>
@@ -28,55 +24,21 @@
     <div class="bg-light section-space80">
         <div class="container">
             <div class="row">
-                <div class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 offset-md-2 col-md-8 col-sm-12 col-12">
+                <div class="offset-xl-2 col-xl-9 offset-lg-2 col-lg-9 offset-md-2 col-md-9 col-sm-12 col-12">
                     <div class="mb30 text-center section-title">
                         <!-- section title start-->
-                        <h1>Your program outline <br> Every lesson you'll learn in Wired4Success</h1>
+                        <h1 class="mb30">Learn the fundamentals Of Mastering Your Mindset!</h1>
+                        <video width="100%" height="500px" controls>
+                          <source src="https://www.youtube.com/watch?v=E1foE6xq66k" type="video/webm">
+                        </video>
                     </div>
                     <!-- /.section title start-->
                 </div>
             </div>
-            
+
         </div>
     </div>
     <!-- /.how-it-works -->
-
-<!-- Table Chart-->
-
-<div class="container">
-             
-  <table class="table table-striped">
-    <thead>
-      <tr>
-        <th>Firstname</th>
-        <th>Lastname</th>
-        <th>Email</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>John</td>
-        <td>Doe</td>
-        <td>john@example.com</td>
-      </tr>
-      <tr>
-        <td>Mary</td>
-        <td>Moe</td>
-        <td>mary@example.com</td>
-      </tr>
-      <tr>
-        <td>July</td>
-        <td>Dooley</td>
-        <td>july@example.com</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-<!-- /.Table Chart -->
-
-
-
 
 
     <!-- why-choose -->
@@ -87,6 +49,7 @@
                     <div class="mb30 text-center section-title">
                         <!-- section title start-->
                         <h1>Why choose Wired4Success</h1>
+                        <img src="images/imgs/books.png" alt="">
                     </div>
                     <!-- /.section title start-->
                 </div>
@@ -103,17 +66,17 @@
                 <!-- features -->
 
 
- <div class="col-xl-6 col-lg-6 col-md-6 col-sm-4 col-12">
+                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-4 col-12">
                     <div class="bg-white pinside30 mb30 highlight-outline outline">
                         <h4>Watch Anywhere</h4>
-                        <p>Learn from the comfort of your home or on the go, whenever you want - the choice is yours.<br> Log into your private account 
+                        <p>Learn from the comfort of your home or on the go, whenever you want - the choice is yours.<br> Log into your private account
                             Watch via any device with internet access. Learn on your own schedule Start or stop the videos anytime. Pause and pick up where you left off easily.
                         </p>
                     </div>
                 </div>
 
 
-                
+
                 <!-- /.features -->
                 <!-- features -->
                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-4 col-12">
@@ -131,121 +94,131 @@
                     </div>
                 </div>
                 <!-- /.features -->
-                
+
             </div>
         </div>
     </div>
     <!--/.why-choose -->
-    
-    <div class="section-space100 bg-light">
+    <div class="bg-white section-space80">
         <div class="container">
-        <span><h1 class="mb40 text-centre">WIRED4SUCCESS</h1></span>
-            <div class="row">            
+            <div class="row">
+                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                    <div class="mb30 text-center section-title">
+                        <!-- section title start-->
+                        <h1 class="mb30">"Discover How To Attract Anything You Want In Life By Rewiring Your Mind To Reach Its Full Potential"</h1>
+                        <p>Do you want to be successful in business? Or in love? Do you want to lose weight? Or build muscle? Do you want to be a rock singer,
+                           a novelist, a trophy-winning golfer – or something else entirely? There's no right or wrong answers to those questions.
+                           It's entirely up to you. The reason I ask is this: Unless you know what you want, how will you know when you've got it?
+                           That's why it's important to set goals. Some people prefer to call them “objectives” or “targets”, but it really doesn't matter.
+                           It's basically what you want to achieve. Setting goals scares some people. They think by setting some ambitious goal,
+                           they'll just get disappointed when they fail to achieve it. Because they want to avoid disappointment, they do nothing.
+                           They just bumble through life taking things as they come, with no aim or direction, settling for whatever life brings their way.
+                           It's understandable – and WRONG.
+                         </p>
+                         <a href="signup.php" class="btn btn-default">Sign Up Now</a>
+                    </div>
+                    <!-- /.section title start-->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="bg-white section-space80">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                    <div class="mb30 text-center section-title">
+                        <!-- section title start-->
+                        <h1 class="mb30">Your program outline Every lesson you'll learn in Wired4Success</h1>
+                         <a href="signup.php" class="btn btn-default">Sign Up Now</a>
+                    </div>
+                    <!-- /.section title start-->
+                </div>
+            </div>
+        </div>
+    </div>
+
+      <div class="section-space100 bg-light">
+        <div class="container">
+            <h1 class="mb20 text-center">WIRED4SUCCESS</h1>
+            <p class="text-center mb40">Everything you get when you join today. Here's what you'll get instant access to</p>
+            <div class="row">
                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
-                
                     <div class="mb30">
-                        <span><img src="./images/imgs/w4c.jpg" alt="w4c"></span><br>
+                        <span><img src="./images/imgs/books.png" alt="w4c"></span><br>
                         <br>
                         <p>What do you want? I don't just mean from this e-course, but what do you want out of life, generally?<br><br>
-
-Live the Life You Always Wanted! This is The Must-Have Guide To Learning How To Condition Your Mind For Success In All Aspects of Your Life. <br><br>
-
-Are you happy with your lifestyle right now?
-Do you feel that you're getting everything you could be from your career? Your relationships? Your life outside of world? <br><br>
-
-Do you get to travel and see the world? Well...why not? It All Comes Down To You !! <br><br>
-</p>
-                    
-                       
+                        Live the Life You Always Wanted! This is The Must-Have Guide To Learning How To Condition Your Mind For Success In All Aspects of Your Life. <br><br>
+                        Are you happy with your lifestyle right now?
+                        Do you feel that you're getting everything you could be from your career? Your relationships? Your life outside of world? <br><br>
+                        Do you get to travel and see the world? Well...why not? It All Comes Down To You !! <br><br>
+                        </p>
                     </div>
                 </div>
-  <!--Feature List-->              
- <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
-     <div  class="container" >
+                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
+                <div  class="container" >
                     <div class="benifits-feature">
                         <ul class="bullet bullet-check-circle-default list-unstyled">
                             <li>
                                 <h3>Access To Wired4Success Training Courses</h3>
-                                
                             </li>
                             <li>
                                 <h3>Learn How To Become More Motivated, Focus.</h3>
-                                
                             </li>
                             <li>
                                 <h3>Downloadable Content, Cheat Sheets, MP4 Files & Access To Facebook Group.</h3>
-                                
                             </li>
                             <li>
                                 <h3>Ongoing live calls.</h3>
-                                
                             </li>
                             <li>
                                 <h3>Past calls archive.</h3>
-                                
                             </li>
                             <li>
                                 <h3>Private community.</h3>
-                                
                             </li>
                             <li>
                                 <h3>Lifetime access.</h3>
-                                
                             </li>
-                            
                         </ul>
                     </div>
                 </div>
-            </div>
-
-<!--/.Feature List-->  
-
-
-
-             <div class="container">
-
+                </div>
+                <div class="container">
                     <div class="text-center">
-                        <!-- section title start-->
-                        
                         <p>We have a tendency to blame our situation and our circumstances. To view the life that we live as having been designed by forces outside of our control. <br><br>
+                        While there are some occasions when life will throw you a curveball that you can't control, the rest of the time, it's all down to us.
+                        If you're currently in a job you hate and that makes you highly stressed, then you're in that position because you chose to be there.
+                        It might not feel like it was a choice but even inaction is a decision that you make. You chose not to find work elsewhere.
+                        You chose to let these circumstances be seen as acceptable. <br><br>
+                        And you probably also choose to let your workplace take advantage of you. And to live in a home that you're not absolutely thrilled with.  <br><br>
+                        You Need To Start Making Different Choices
+                        It's time to start making some different choices if you really want a change. And that starts by changing the way you think. <br><br>
+                        It starts by recognizing that you have a choice and from there, it means discovering your passion, discovering the fire
+                        that will get you to leap out of bed every morning and changing the way you go about achieving it. It means presenting
+                        yourself as someone powerful, someone wired for success.
+                        But how and where do you get started? Well, I've got good news for you...
+                        I've put it all into one easy-to-understand course on how to wire your mind for success.
+                        Jesse Ruffolo is a professional Entrepreneur and his results are not typical.
+                        His experiences are not a guarantee you will make money. You may make more, less or the same. <br><br>
+                        Still need a question answered? No problem.
+                        </p>
 
-While there are some occasions when life will throw you a curveball that you can't control, the rest of the time, it's all down to us.
-If you're currently in a job you hate and that makes you highly stressed, then you're in that position because you chose to be there.
-It might not feel like it was a choice but even inaction is a decision that you make. You chose not to find work elsewhere. 
-You chose to let these circumstances be seen as acceptable. <br><br>
-And you probably also choose to let your workplace take advantage of you. And to live in a home that you're not absolutely thrilled with.  <br><br>
-
-You Need To Start Making Different Choices
-It's time to start making some different choices if you really want a change. And that starts by changing the way you think. <br><br>
-
-It starts by recognizing that you have a choice and from there, it means discovering your passion, discovering the fire that will get you to leap out of bed every morning and changing the way you go about achieving it. It means presenting yourself as someone powerful, someone wired for success. 
-
-But how and where do you get started? Well, I've got good news for you... I've put it all into one easy-to-understand course on how to wire your mind for success.
-Jesse Ruffolo is a professional Entrepreneur and his results are not typical. His experiences are not a guarantee you will make money. You may make more, less or the same. <br><br>
-
-Still need a question answered? No problem.
-</p>
-                        
                     </div>
-                    <!-- /.section title start-->
-
-
-
-
+                </div>
             </div>
-        </div>
-     </div>  
-</div>  
+         </div>
+    </div>
 
     <!-- about-section -->
-   
-    <!-- /.about-section -->
- 
 
-   
-  
-    
-   
+    <!-- /.about-section -->
+
+
+
+
+
+
     <!-- back to top icon -->
     <a href="#0" class="cd-top" title="Go to top">Top</a>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->

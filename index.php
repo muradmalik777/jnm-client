@@ -297,7 +297,6 @@
                 <div class="offset-xl-2 col-xl-8 offset-md-2 col-md-8 offset-md-2 col-md-8 col-sm-12 col-12">
                     <div class="mb60 text-center section-title">
                         <h1>WHY CHOOSE KNOWLEDGE BANK SOCIETY?</h1>
-                        <p>Suspendisse aliquet varius nunc atcibus lacus sit amet coed portaeri sque mami luctus viveed congue lobortis faucibus.</p>
                     </div>
                 </div>
             </div>
