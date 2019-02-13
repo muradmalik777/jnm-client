@@ -7,7 +7,7 @@
 
 
 <body>
-    
+
     <div class="page-header">
         <div class="container">
             <div class="row">
@@ -17,10 +17,10 @@
                            <div class="col-xl-4 col-lg-4 col-md-9 col-sm-12 col-12">
                                 <h1 class="page-title">PRIVACY POLICY</h1>
                             </div>
-                           
+
                         </div>
                     </div>
-                   
+
                 </div>
             </div>
         </div>
@@ -35,7 +35,7 @@
                                 <p>Policy last updated on 5/25/18. <br><br>
 
 
-This is the Privacy Policy for Knowledgebanksociety.com (“Site”), which is owned by Jesse Ruffolo and Operated By WordPress. <br><br>
+This is the Privacy Policy for Knowledgebanksociety.com (“website”), which is owned by Jesse Ruffolo and Operated By WordPress. <br><br>
 
 
 The following policy explains how we collect and use personal information in detail. If you have any concerns about this policy, please feel free to contact us at <b>knowledgebanksociety@gmail.com</b>. <br><br>
@@ -43,10 +43,10 @@ The following policy explains how we collect and use personal information in det
 </p>
                                 <h2>Your Acceptance of this Privacy Policy</h2>
                                 <p>By registering and using this Site, including, without limitation, signing up for offers and/or continuing to receive information from Company, you signify your acceptance of this Policy, and you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is subject to the Terms of Use posted on the Site. If you do not agree to the terms of this Policy, in whole or part, you should not use this Site, and should instantly cancel your registration (if you have signed up) by following the directions in the section "Opting-Out of Further Communications:"</p>
-                                <h2>Registration; Collection and Use of Information:</h2>
+                                <h2>Registration, Collection and Use of Information:</h2>
                                 <p>Anyone completing and submitting any or part of the forms on the Site is considered a “registrant.” When you register with Company, you automatically allow registration in any and all of the other sites in the Company’s network (collectively, the "Network Sites"). Accordingly, we may share registrant PII with the Network Sites. <br><br>
-                            
-                            
+
+
                                 Company only gathers personal identifiable information ("PII") that is volunteered during the registration process or in response to specific information requests. Examples of PII that may be requested consist of name, address, email address, and telephone number. We also collect credit card or other payment account information in connection with any purchase you make on or through the Site. The decision to provide PII is optional on your part; however, if you decide not to register or provide such information, you may not be able to make purchases on or use certain features of the Site or other services on or through the Site. <br><br>
 
 
@@ -63,11 +63,11 @@ The following policy explains how we collect and use personal information in det
 
 
                                 By providing PII and other information to this Site, registrant fully understands and expressly consents to the collection and use of such information and the transfer of such information to Network Sites and other parties, in accordance with the terms of this Policy.<br><br>
-                                
+
                             </p>
 
                                 <h2>Sharing Information </h2>
-                                <p>Company reserves the right to use registrant PII: (1) as disclosed at the time such information is provided and (2) as disclosed in this Policy.   <br><br> 
+                                <p>Company reserves the right to use registrant PII: (1) as disclosed at the time such information is provided and (2) as disclosed in this Policy.   <br><br>
 
 
                                 We <b>DO NOT</b> rent, sell, or otherwise share your PII and non-personal information for any purpose other than those limited purposes described herein. Those limited purposes may include sharing such information with Network Sites and vendors who need the information to process and fulfill customer transactions. <br><br>
@@ -148,7 +148,7 @@ The following policy explains how we collect and use personal information in det
                                 We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response. <br><br>
 
 
-                                We try to respond to all legitimate requests as promptly as possible and wait time for response may vary. Occasionally it may take us longer, if your request is particularly complex or you have made a number of requests. In this case, we will notify you. 
+                                We try to respond to all legitimate requests as promptly as possible and wait time for response may vary. Occasionally it may take us longer, if your request is particularly complex or you have made a number of requests. In this case, we will notify you.
                                 <br><br>
 
                                 If you are an EU resident and you are not happy with any aspect of how we collect and use your data, you have the right to complain to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues (www.ico.org.uk). We should be grateful if you would contact us first if you do have a complaint so that we can try to resolve it for you.<br><br>

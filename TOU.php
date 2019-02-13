@@ -5,7 +5,7 @@
 
 <!-- error.html  19:06:50  -->
 <head>
-   
+
 </head>
 
 <body>
@@ -14,7 +14,7 @@
         <div class="container">
             <div class="row">
                   <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                   
+
                 </div>
                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                     <div class="bg-white pinside30">
@@ -22,10 +22,10 @@
                            <div class="col-xl-4 col-lg-4 col-md-9 col-sm-12 col-12">
                                 <h1 class="page-title">Terms of Use</h1>
                             </div>
-                            
+
                         </div>
                     </div>
-                   
+
                 </div>
             </div>
         </div>
@@ -38,15 +38,12 @@
                     <div class="wrapper-content bg-white pinside60">
                         <div class="row">
                             <div class="col-xl-12  col-lg-12 col-lg-6 col-md-12 col-sm-12 col-12">
-                                <p><b>Updated on July 11th 2018</b><br><br>This website is operated by WordPress, through our website Knowledgebanksociety.com ("Website"), offers [Product/Service name(s)] (collectively, “Products and Services”), and from time to time may offer other products or services, for sale. Company offers Products and Services for sale subject to these Terms and Conditions of Use (the "Terms"), which may be updated by us from time to time.
-
-                                <br><br>
 
                                 By accessing our Website and/or using our Products and Services in any way, you are agreeing to comply with and be bound by these Terms. In addition, when using our Website, you agree to abide by any posted guidelines for all of our Products and Services, which may change from time to time, and to comply with all applicable laws, regulations and rules. If you object to any of these Terms, any guidelines, or any subsequent modifications, or if you become dissatisfied with the Website or our Products and Services, you should immediately discontinue use of the Website.  These Terms remain in force and effect as long as you are a user of the Website and/or a registered user. In the event of termination of any membership, service or feature, you will still be bound by your obligations under these Terms, including any indemnifications, warranties and limitations of liability.  You should periodically review these Terms.  Company reserves the right, at any time, to change the Terms by publishing revised terms on the Website.  Any use of the Website and/or our Products and Services by you after our publication of any such changes shall constitute your acceptance of these Terms, as modified, with regard to any additional use of the Website or additional purchase of Products and Services.  You agree that Company is permitted to access and use any other information provided by you to provide Products and Services and, if necessary, to access such information to obtain contact information in order to provide notifications relating to the Products and Services we provided to you.
 
 
                                 <br><br>
-                                <b>IF YOU DO NOT AGREE TO THESE TERMS, DO NOT USE THIS WEBSITE.  BY USING THE WEBSITE AND AGREEING TO THESE TERMS, YOU CONFIRM THAT YOU ARE AT LEAST 18 YEARS OLD AND THAT YOU ARE LEGALLY COMPETENT TO ENTER INTO A CONTRACT.</b> Access to the Website and Restrictions on Your Use Company grants you a limited, revocable, nonexclusive, non-transferable license to access our Website and use our Products and Services for your own personal use only.
+                                <b>IF YOU DO NOT AGREE TO THESE TERMS, DO NOT USE THIS WEBSITE.  BY USING THE WEBSITE AND AGREEING TO THESE TERMS, YOU CONFIRM THAT YOU ARE AT LEAST 18 YEARS OLD AND THAT YOU ARE LEGALLY COMPETENT TO ENTER INTO A CONTRACT.</b> <br>Access to the Website and Restrictions on Your Use Company grants you a limited, revocable, nonexclusive, non-transferable license to access our Website and use our Products and Services for your own personal use only.
 
                                 <br><br>
 
@@ -56,16 +53,16 @@
 
                                 You agree not to access or try to access any computer system of Company, its programs or its data that are not made available for public use. Except as expressly stated herein, you are not granted any right or license, by implication, estoppel, or otherwise, in or to any patent, trademark, copyright, or proprietary right of Company or any third party, in connection with your use of the Website and any Materials provided by Company or any third party on the Website. Elements of the Website, including custom graphics, images, logos, page headers, sounds, button icons, and the “look and feel” of the Website (including its design, layout, color combinations, button shapes and other graphical elements) are protected by copyright, trade dress and other state and federal laws and may not be copied or imitated, in whole or in part. You agree that you will not do any of the following:
                                     <ol type="a">
-                                            <li>Use any data mining, robots, spiders, or similar data-gathering and extraction methods within the Website or in any way reproduce or circumvent the navigational structure or presentation of the Website or its contents.</li><br>
-                                            <li>Circumvent, disable or interfere with the security of the Website or features that prevent, limit or restrict use or copying of the Website or any Materials.</li><br>
-                                            <li>Copy, reproduce, republish, upload, post, transmit, or distribute in any way any Materials, in whole or in part, without our written permission, other than as expressly allowed by us.</li><br>
-                                            <li>Transmit any software or other materials containing viruses, worms, Trojan horses, defects, date bombs, time bombs or other destructive or harmful items.</li><br>
-                                            <li>Modify, adapt, sub-license, translate, sell, reverse engineer, decompile or disassemble any portion of the Website or attempt to derive any source code or underlying ideas or algorithms on the Website.</li><br>
-                                            <li>Do anything that imposes or may impose, in our sole judgment, an unreasonable or disproportionately large load on our (or our third-party providers') infrastructure.</li><br>
-                                            <li>"Frame" or "mirror" the Website or any part.</li><br>
-                                            <li>Use the Website or any Materials for any unlawful purpose.</li><br>
-                                            <li>Spam or flood.</li><br>
-                                            <li>Resell or make commercial use of the Website or Materials or make any derivative use of the Website or Materials.</li><br>
+                                            <li> Use any data mining, robots, spiders, or similar data-gathering and extraction methods within the Website or in any way reproduce or circumvent the navigational structure or presentation of the Website or its contents.</li><br>
+                                            <li> Circumvent, disable or interfere with the security of the Website or features that prevent, limit or restrict use or copying of the Website or any Materials.</li><br>
+                                            <li> Copy, reproduce, republish, upload, post, transmit, or distribute in any way any Materials, in whole or in part, without our written permission, other than as expressly allowed by us.</li><br>
+                                            <li> Transmit any software or other materials containing viruses, worms, Trojan horses, defects, date bombs, time bombs or other destructive or harmful items.</li><br>
+                                            <li> Modify, adapt, sub-license, translate, sell, reverse engineer, decompile or disassemble any portion of the Website or attempt to derive any source code or underlying ideas or algorithms on the Website.</li><br>
+                                            <li> Do anything that imposes or may impose, in our sole judgment, an unreasonable or disproportionately large load on our (or our third-party providers') infrastructure.</li><br>
+                                            <li> "Frame" or "mirror" the Website or any part.</li><br>
+                                            <li> Use the Website or any Materials for any unlawful purpose.</li><br>
+                                            <li> Spam or flood.</li><br>
+                                            <li> Resell or make commercial use of the Website or Materials or make any derivative use of the Website or Materials.</li><br>
                                     </ol>
 
                                 Privacy Policy Company's Privacy Policy, as displayed on our Website, is part of these Terms.  Please read it, because you are agreeing that it applies to our collection and use of information from you.     <br><br>
@@ -73,10 +70,10 @@
                                 Purchasing Items Featured on our Website Company takes reasonable precautions to try to ensure that any prices quoted on the Website are correct, and to describe the items available on the Website as accurately as possible. However, when ordering Products or Services featured on the Website, please note that the Company does not warrant that product and service descriptions are accurate, complete, reliable, current, or error-free. If a Product or Service described on the Website is not as described when you receive or use it, you should contact our customer service department at <b> Knowledgebanksociety@gmail.com</b><br><br></p>
 
                                 <h2>Pricing Errors and Omissions</h2>
-    
+
 
                                 <p>
-                                Please be aware that prices, availability and other purchase terms are subject to change without prior notice. We make every effort to insure the accuracy of the information on the Website and if errors are discovered, we correct them.    
+                                Please be aware that prices, availability and other purchase terms are subject to change without prior notice. We make every effort to insure the accuracy of the information on the Website and if errors are discovered, we correct them.
 
                                 Be advised that the Company reserves the right to revoke any stated offer to correct any errors, inaccuracies, or omissions, including after an order has been submitted, after it has been confirmed, or after your credit card has been charged.
                                 </p><br>
@@ -97,7 +94,7 @@
                                 <p>
                                 THE COMPANY AND ITS OWNERS, PRINCIPALS, REPRESENTATIVES AND AGENTS ASSUME NO RESPONSIBILITY FOR ANY CONSEQUENCE RELATING DIRECTLY OR INDIRECTLY TO ANY ACTION OR INACTION YOU TAKE BASED ON THE INFORMATION, PRODUCTS, SERVICES, OR MATERIALs ON THE WEBSITE. WHILE THE COMPANY STRIVES TO KEEP THE INFORMATION ON THE WEBSITE AND ON THE FEATURED PRODUCTS AND SERVICES ACCURATE, COMPLETE, AND UP-TO-DATE, WE CANNOT GUARANTEE, AND WILL NOT BE RESPONSIBLE FOR, ANY DAMAGE OR LOSS RELATED TO THE ACCURACY, COMPLETENESS, OR TIMELINESS OF THE INFORMATION ON THE WEBSITE AND IN PRODUCTS AND SERVICES FEATURED ON THE WEBSITE.   YOUR USE OF THE WEBSITE IS SUBJECT TO ANY ADDITIONAL DISCLAIMERS AND CAVEATS THAT MAY APPEAR THROUGHOUT THE WEBSITE AND WITH PRODUCTS AND SERVICES FEATURED BY US. <br><br>
 
-                                Disclaimer of Warranties with Respect to Use of Website, Products and Services. THE WEBSITE AND ALL PRODUCTS AND SERVICES FEATURED ON IT ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS. EXCEPT AS SPECIFICALLY PROVIDED HEREIN, TO THE FULLEST EXTENT PERMISSIBLE PURSUANT TO APPLICABLE LAW, THE COMPANY EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.  WHILE THE COMPANY USES REASONABLE EFFORTS TO INCLUDE ACCURATE AND UP TO DATE INFORMATION ON THE WEBSITE, THE COMPANY DOES NOT MAKE ANY WARRANTY THAT THE WEBSITE WILL MEET YOUR REQUIREMENTS, OR THAT ACCESS TO THE WEBSITE WILL BE UNINTERRUPTED, TIMELY, SECURE OR ERROR-FREE, OR THAT DEFECTS, IF ANY, WILL BE CORRECTED. THE COMPANY MAKES NO WARRANTIES AS TO THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE WEBSITE OR THE PRODUCTS AND SERVICES FEATURED THEREON, OR AS TO THE ACCURACY, QUALITY, OR RELIABILITY OF ANY INFORMATION OBTAINED THROUGH THE WEBSITE.  YOU UNDERSTAND AND AGREE THAT ANY MATERIAL AND/OR DATA DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE WEBSITE IS USED AT YOUR OWN RISK AND THAT YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF SUCH MATERIAL AND/OR DATA.  NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM THE COMPANY OR THROUGH THE WEBSITE SHALL CREATE ANY WARRANTY NOT EXPRESSLY MADE HEREIN. <br><br>
+                                Disclaimer of Warranties with Respect to Use of Website, Products and Services. THE WEBSITE AND ALL PRODUCTS AND SERVICES FEATURED ON IT ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS. EXCEPT AS SPECIFICALLY PROVIDED HEREIN, TO THE FULLEST EXTENT PERMISSIBLE PURSUANT TO APPLICABLE LAW, THE COMPANY EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.  WHILE THE COMPANY USES REASONABLE EFFORTS TO INCLUDE ACCURATE AND UP TO DATE INFORMATION ON THE WEBSITE, THE COMPANY DOES NOT MAKE ANY WARRANTY THAT THE WEBSITE WILL MEET YOUR REQUIREMENTS, OR THAT ACCESS TO THE WEBSITE WILL BE UNINTERRUPTED, TIMELY, SECURE OR ERROR-FREE, OR THAT DEFECTS, IF ANY, WILL BE CORRECTED. THE COMPANY MAKES NO WARRANTIES AS TO THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE WEBSITE OR THE PRODUCTS AND SERVICES FEATURED THEREON, OR AS TO THE ACCURACY, QUALITY, OR RELIABILITY OF ANY INFORMATION OBTAINED THROUGH THE WEBSITE.  YOU UNDERSTAND AND AGREE THAT ANY MATERIAL AND/OR DATA DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE WEBSITE IS USED AT YOUR OWN RISK AND THAT YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF SUCH MATERIAL AND/OR DATA.  NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM THE COMPANY OR THROUGH THE WEBSITE SHALL CREATE ANY WARRANTY NOT EXPRESSLY MADE HEREIN.
 
                                 Limitations of Liability and Damages  YOU AGREE THAT COMPANY’S LEGAL LIABILITY, INCLUDING THE LIABILITY OF ITS AFFILIATES, OFFICERS, DIRECTORS, SHAREHOLDERS, EMPLOYEES OR AGENTS, FOR ANY CLAIM MADE BY YOU ARISING OUT OF YOUR USE OF THE WEBSITE OR PURCHASE OF PRODUCTS OR SERVICES OFFERED THEREON SHALL BE LIMITED TO THE AMOUNT YOU PAID TO COMPANY, EXCEPT AS PROVIDED IN THE ARBITRATION AGREEMENT BELOW.  UNDER NO CIRCUMSTANCES WILL SPECIAL, INCIDENTAL, CONSEQUENTIAL OR PUNITIVE DAMAGES BE AWARDED, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. SOME STATES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THIS EXCLUSION MAY NOT APPLY TO YOU.  EXCEPT AS PERMITTED BY LAW, IF APPLICABLE. <br><br>
 
@@ -112,7 +109,7 @@
                                 All Website design, text, graphics, and the selection and arrangement thereof, are owned by Company. Copyright © 2018 Knowledgebanksociety.com ALL RIGHTS RESERVED. <br><br>
 
                                 </p>
-                                
+
                                 <h2>Enforcement of Rules and Policies</h2>
 
                                 <p>
@@ -123,11 +120,11 @@
                                 You are solely responsible for the content that you submit on or through the Website, and any content or information that you transmit to other users or third party advertisers on the Website. <br><br>
 
                                 </p>
-                                
+
                                 <h2>Governing Law</h2>
                                 <p>
                                 The Terms and the relationship between you and Company shall be governed by the laws of Canada, USA and the Laws of United Kingdom without regard to any conflicts of laws principles.
-                                
+
                                 </p>
 
 
