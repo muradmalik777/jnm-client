@@ -58,3 +58,39 @@ iframe:focus {
 iframe[seamless] {
   display: block;
 }
+.signup-btn{
+  display: block !important;
+  width: fit-content !important;
+  margin: auto !important;
+}
+.ceo-image{
+  border-radius: 100%;
+}
+.about-ceo{
+  width: 300px;
+  height: 300px;
+}
+.help-text{
+  width: 50%;
+  float: left;
+  font-size: 18px;
+}
+.help-text i{
+  font-size: 24px;
+  cursor: pointer;
+}
+@media only Screen and (max-width: 425px){
+  .form{
+    width: 100%;
+  }
+  .logo-container{
+    display: none;
+  }
+  .small-screen{
+    margin-top: 0px !important;
+    border: none !important;
+  }
+  .help-text{
+    width: 100%;
+  }
+}

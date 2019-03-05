@@ -108,7 +108,8 @@ Space css class
 /*----------------
 margin space
 -----------------*/
-
+.fr{ float: right; }
+.fl{ float: left; }
 .mb0 { margin-bottom: 0px; }
 .mb5 { margin-bottom: 5px; }
 .mb10 { margin-bottom: 10px; }
@@ -1196,7 +1197,7 @@ Landing Page Template
 .feature-list-bar { background: #e3edf9; padding-top: 16px; padding-bottom: 16px; color: #3c4d6b; }
 @media screen and (min-width:1366px) {
   .slider-captions { position: absolute; bottom: 250px; width: 100%; }
-  .slider-title { color: #fff; font-size: 32px; font-weight: 700; line-height: 42px; }
+  .slider-title { color: #fff; font-size: 50px; font-weight: 700; line-height: 42px; }
   .slider .owl-prev { position: absolute; left: 0px; top: 40%; left: 0px; }
   .slider .owl-next { position: absolute; right: 0px; top: 40%; right: 0px; }
 }
