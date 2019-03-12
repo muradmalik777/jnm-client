@@ -1,3 +1,6 @@
+.uppercase{
+  text-transform: uppercase;
+}
 .header .container{
   min-width: 90% !important;
 }
@@ -61,7 +64,7 @@ iframe[seamless] {
 .signup-btn{
   display: block !important;
   width: fit-content !important;
-  margin: auto !important;
+  margin: 50px auto !important;
 }
 .ceo-image{
   border-radius: 100%;

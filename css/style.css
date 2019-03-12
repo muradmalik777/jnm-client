@@ -236,8 +236,8 @@ Buttons
 ------------------------------------------*/
 
 .btn { font-size: 14px; border-radius: 2px; line-height: 12px; letter-spacing: 1px; text-transform: uppercase; padding: 20px 30px; border: none; font-weight: 600; }
-.btn-default { background-color: #e67e22; color: #fff; border-color: #e67e22; }
-.btn-default:hover { color: #fff; background-color: #ff389c; border-color: #ff389c; }
+.btn-default { background-color: #e67e22; color: #fff; border: 2px solid #e67e22; }
+.btn-default:hover { color: #e67e22; background-color: #fff; border: 2px solid #e67e22;}
 .btn-default.focus, .btn-default:focus { color: #fff; background-color: #d5504f; border-color: #c64241; }
 .btn-primary { background-color: #e67e22; color: #fff; }
 .btn-primary:hover { color: #fff; background-color: #2573cb; }
@@ -334,13 +334,13 @@ top bar
 #navigation, #navigation ul, #navigation ul li, #navigation ul li a, #navigation #menu-button { margin: 0; padding: 0; border: 0; list-style: none; line-height: 1; display: block; position: relative; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
 #navigation:after, #navigation>ul:after { content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0; }
 #navigation #menu-button { display: none; }
-#navigation { float: right; margin-top: 8px; position: relative; z-index: 99; }
+#navigation { margin: 8px auto !important; width: fit-content; z-index: 99; }
 #navigation>ul>li { float: left; }
 #navigation.align-center>ul { font-size: 0; text-align: center; }
 #navigation.align-center>ul>li { display: inline-block; float: none; }
 #navigation.align-center ul ul { text-align: left; }
 #navigation.align-right>ul>li { float: right; }
-#navigation>ul>li>a { padding: 16px 10px; font-size: 13px; text-decoration: none; color: #66707f; font-weight: 600; text-transform: uppercase; }
+#navigation>ul>li>a { padding: 16px 10px; font-size: 16px; text-decoration: none; color: #66707f; font-weight: 600; text-transform: uppercase; }
 #navigation>ul>li:hover>a { color: #e67e22; }
 #navigation>ul>li.has-sub>a { padding-right: 26px; }
 
@@ -407,7 +407,7 @@ display: block; background: #dddddd; content: '';}*/
 ------------------------------------------*/
 #slider { }
 .slider { position: relative; }
-.slider-img img { position: relative; z-index: -1; width: 100%; }
+.slider-img img { position: relative; filter: blur(7px); z-index: -1; width: 100%; }
 .slider-img { position: relative; }
 .slider-captions { position: absolute; bottom: 200px; }
 .slider-title { color: #000 !important; font-size: 52px; font-weight: 700; line-height: 62px; }

@@ -4,7 +4,7 @@
     <div class="container">
         <div class="row">
             <div class="col-xl-5 col-lg-5 col-md-6 col-sm-6 col-6 d-none d-xl-block d-lg-block">
-                <p class="mail-text">Welcome to KnowledegeBankSociety | Toronto, Otario</p>
+                <p>Welcome to KnowledegeBankSociety <span class="ml20">Toronto, Otario</span></p>
             </div>
             <div class="col-xl-7 col-lg-6 col-md-6 col-sm-12 col-12 text-right">
                 <div class="top-nav"> <span class="top-text"><a href="index.php" class="animsition-link"></a> </span> <span class="top-text"><a href="login.php" class="animsition-link">Login</a></span> <span class="top-text">647-772-9884</span> </div>
