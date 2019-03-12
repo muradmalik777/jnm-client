@@ -14,7 +14,21 @@
 .why-us{
   min-height: 300px !important;
 }
-
+.m{
+  border-radius: 10px;
+}
+.course-margin{
+  margin: 10px;
+}
+.courses{
+  height: auto;
+}
+.course-btn{
+  display: block !important;
+  width: fit-content !important;
+  margin: 20px auto !important;
+  text-decoration: underline;
+}
 .navigation {
 display: inline;
 }
